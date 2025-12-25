@@ -59,11 +59,11 @@ Example new stop:
 ## Coordinate Guidelines
 
 - Use at least 6 decimal places for accuracy
-- Verify coordinates using Google Maps or OpenStreetMap
+- Verify coordinates using OpenStreetMap (Google Maps has mapping offset errors in Davao City)
 - Davao City coordinates should be in these ranges:
   - Latitude: 6.9 to 7.2
   - Longitude: 125.4 to 125.7
-- Test your coordinates: `https://maps.google.com/?q={latitude},{longitude}`
+- Test your coordinates: `https://www.openstreetmap.org/?mlat={latitude}&mlon={longitude}&zoom=18`
 
 ## File Naming
 
