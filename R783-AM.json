@@ -1,0 +1,171 @@
+{
+  "id": "019b4a3c-ce4c-779a-be18-22eb1771ee69",
+  "route_number": "R783",
+  "name": "Panacan via Angliongto to Roxas",
+  "area": "Panacan",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-670d-7ed7-a0a7-08761d7efd4b",
+      "name": "Davao-Samal Ferry Terminal Station",
+      "latitude": 7.146343362780669,
+      "longitude": 125.6612564624129
+    },
+    {
+      "id": "019b54ee-670e-7035-bf4e-05bc39111abe",
+      "name": "Panacan Depot Station",
+      "latitude": 7.148352496779623,
+      "longitude": 125.65923616688303
+    },
+    {
+      "id": "019b54ee-670f-7359-bc87-368072835c49",
+      "name": "Panacan Bypass Road Station",
+      "latitude": 7.1437501392288425,
+      "longitude": 125.65436664109302
+    },
+    {
+      "id": "019b54ee-6710-7d36-bb5c-31560024d87c",
+      "name": "LPU Davao Station",
+      "latitude": 7.136829103550468,
+      "longitude": 125.64709777908456
+    },
+    {
+      "id": "019b54ee-6711-7922-91a8-fe605d585904",
+      "name": "Sta. Lucia Mall Station",
+      "latitude": 7.132809965278199,
+      "longitude": 125.64279798498205
+    },
+    {
+      "id": "019b54ee-6712-7785-abbd-49b3617f08d9",
+      "name": "McDonald's Pagibig Station",
+      "latitude": 7.125931685167998,
+      "longitude": 125.63392313825193
+    },
+    {
+      "id": "019b54ee-6713-7178-925c-23c0d93f7d8b",
+      "name": "Punad Bypass Station",
+      "latitude": 7.1219558280982085,
+      "longitude": 125.63294497501374
+    },
+    {
+      "id": "019b54ee-6714-7eb5-b23b-d1de6026133f",
+      "name": "Angliongto Arcade Station",
+      "latitude": 7.108804137203279,
+      "longitude": 125.63232702960931
+    },
+    {
+      "id": "019b54ee-6715-75f6-8edf-73a590978357",
+      "name": "Philippine Nikkei Jin Kai Station",
+      "latitude": 7.102756091613799,
+      "longitude": 125.63273687284595
+    },
+    {
+      "id": "019b54ee-6716-7150-a4d4-0937f1f8ef0f",
+      "name": "SM Lanang Station",
+      "latitude": 7.100606686838233,
+      "longitude": 125.63037376485306
+    },
+    {
+      "id": "019b54ee-6717-7bd2-ae39-606289aeff50",
+      "name": "Carmelite Lanang Station",
+      "latitude": 7.099746998805202,
+      "longitude": 125.62743010225734
+    },
+    {
+      "id": "019b54ee-6718-7c08-8407-59fccf3b0aac",
+      "name": "Merco Cabaguio Station",
+      "latitude": 7.0964409116385525,
+      "longitude": 125.62057526522449
+    },
+    {
+      "id": "019b54ee-6719-75dd-a3b3-36b1b2a49922",
+      "name": "Assumption College Station",
+      "latitude": 7.0868633309003854,
+      "longitude": 125.62387104510185
+    },
+    {
+      "id": "019b54ee-671a-7d00-acbc-f08fa12c0bbc",
+      "name": "Agdao Flyover Station",
+      "latitude": 7.0808921088715095,
+      "longitude": 125.62461650081423
+    },
+    {
+      "id": "019b54ee-671b-793e-8628-2a746c81e8d3",
+      "name": "Sta. Ana Sobrecarey Station",
+      "latitude": 7.0769298569363315,
+      "longitude": 125.61916075914849
+    },
+    {
+      "id": "019b54ee-671c-740c-a9c0-a5105f94090b",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-671d-7d33-a4b4-ef4465adfd88",
+      "name": "Davao Mental Hospital Station",
+      "latitude": 7.076155100789407,
+      "longitude": 125.61331228715926
+    },
+    {
+      "id": "019b54ee-671e-71da-a5b7-c03670400203",
+      "name": "Sta. Ana Sobrecarey Station",
+      "latitude": 7.076884408599184,
+      "longitude": 125.6192440762128
+    },
+    {
+      "id": "019b54ee-671f-72b0-a64f-c8f5f47bde35",
+      "name": "Agdao Flyover Station",
+      "latitude": 7.080910296888646,
+      "longitude": 125.6247151688658
+    },
+    {
+      "id": "019b54ee-6720-78c8-99bb-55529b8bc31e",
+      "name": "Holy Cross R. Castillo Station",
+      "latitude": 7.087468892488118,
+      "longitude": 125.62954334249412
+    },
+    {
+      "id": "019b54ee-6721-7c1e-8001-696da62286fa",
+      "name": "Jerome R. Castillo Station",
+      "latitude": 7.096788638646814,
+      "longitude": 125.6381880270701
+    },
+    {
+      "id": "019b54ee-6722-71f8-9581-7156bdc4140b",
+      "name": "Nova Tierra Station",
+      "latitude": 7.110966540142101,
+      "longitude": 125.64975949711857
+    },
+    {
+      "id": "019b54ee-6723-706b-aa44-1aa6aa06b893",
+      "name": "Dona Pilar Station",
+      "latitude": 7.114600073299528,
+      "longitude": 125.65277578335133
+    },
+    {
+      "id": "019b54ee-6724-763c-8294-688899dc9cab",
+      "name": "Old Airport Station",
+      "latitude": 7.1172855687914165,
+      "longitude": 125.65492043901418
+    },
+    {
+      "id": "019b54ee-6725-79e2-9196-9c67ae30cc46",
+      "name": "Shell Dona Salud Station",
+      "latitude": 7.121570315311246,
+      "longitude": 125.65841323283439
+    },
+    {
+      "id": "019b54ee-6726-7b03-9426-5adf1fb55ec0",
+      "name": "Philippine Ports Authority Station",
+      "latitude": 7.127090366281948,
+      "longitude": 125.66183451578934
+    },
+    {
+      "id": "019b54ee-6727-74e0-a996-c07a4299b452",
+      "name": "Sasa Palengke Station",
+      "latitude": 7.134587751376941,
+      "longitude": 125.66165627495229
+    }
+  ]
+}

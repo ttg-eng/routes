@@ -1,0 +1,177 @@
+{
+  "id": "019b4a3c-ce4e-7b33-a3a0-5ec629f13350",
+  "route_number": "R793",
+  "name": "Panacan via R Castillo to Roxas",
+  "area": "Panacan",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-6743-781a-b2fc-2b1954cd817b",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-6744-7949-9098-f32ab2990fe8",
+      "name": "Davao Mental Hospital Station",
+      "latitude": 7.076155100789407,
+      "longitude": 125.61331228715926
+    },
+    {
+      "id": "019b54ee-6745-79b0-996c-244e8e9dc730",
+      "name": "Sta. Ana Sobrecarey Station",
+      "latitude": 7.076884408599184,
+      "longitude": 125.6192440762128
+    },
+    {
+      "id": "019b54ee-6746-7486-b997-5493079e00ef",
+      "name": "Agdao Flyover Station",
+      "latitude": 7.080910296888646,
+      "longitude": 125.6247151688658
+    },
+    {
+      "id": "019b54ee-6747-7c21-a30a-f74c2ab819d5",
+      "name": "Assumption College Station",
+      "latitude": 7.087782137128627,
+      "longitude": 125.62371155983078
+    },
+    {
+      "id": "019b54ee-6748-7bca-9bff-52302c4e156f",
+      "name": "Shell SPMC Station",
+      "latitude": 7.097934201589098,
+      "longitude": 125.62169714453591
+    },
+    {
+      "id": "019b54ee-6749-7cab-a77b-4bedd150133c",
+      "name": "Tebow Hospital Lanang Station",
+      "latitude": 7.099351685754243,
+      "longitude": 125.62656040202694
+    },
+    {
+      "id": "019b54ee-674a-734c-8229-4988d2a2983d",
+      "name": "SM Lanang Station",
+      "latitude": 7.100225955690647,
+      "longitude": 125.62949149821884
+    },
+    {
+      "id": "019b54ee-674b-77f2-87f0-e5111ca15102",
+      "name": "Starbucks Damosa Station",
+      "latitude": 7.103212659105978,
+      "longitude": 125.63280624116851
+    },
+    {
+      "id": "019b54ee-674c-7e5b-9474-82707f2e9db7",
+      "name": "Angliongto Arcade Station",
+      "latitude": 7.109111406604683,
+      "longitude": 125.63241861686265
+    },
+    {
+      "id": "019b54ee-674d-7915-9606-d2e028cd2532",
+      "name": "Punad Bypass Station",
+      "latitude": 7.12181770955759,
+      "longitude": 125.63314541723594
+    },
+    {
+      "id": "019b54ee-674e-7d09-8cac-f7160e754a02",
+      "name": "Laverna Station",
+      "latitude": 7.126871438515963,
+      "longitude": 125.63548498180933
+    },
+    {
+      "id": "019b54ee-674f-798d-8e46-7ae4cc2dd6e5",
+      "name": "Jose Maria College Station",
+      "latitude": 7.13410674225436,
+      "longitude": 125.6444787968021
+    },
+    {
+      "id": "019b54ee-6750-7a47-9c1a-0557cdf49d62",
+      "name": "Landmark Station",
+      "latitude": 7.138352554160164,
+      "longitude": 125.6489423785963
+    },
+    {
+      "id": "019b54ee-6751-7b77-90f7-fd1b9b0c7512",
+      "name": "Panacan Avenue Station",
+      "latitude": 7.143285736048554,
+      "longitude": 125.65413155238934
+    },
+    {
+      "id": "019b54ee-6752-7c06-bfd1-13de6d46d549",
+      "name": "NCCC Panacan Station",
+      "latitude": 7.144001071909088,
+      "longitude": 125.66120786577358
+    },
+    {
+      "id": "019b54ee-6753-7afd-892c-b928e8ebf5e7",
+      "name": "Sasa Palengke Station",
+      "latitude": 7.1351382686278555,
+      "longitude": 125.66152401594309
+    },
+    {
+      "id": "019b54ee-6754-774f-bd44-7fdf3031485c",
+      "name": "Sulpicio Road Sasa Station",
+      "latitude": 7.127576603761767,
+      "longitude": 125.66174181179122
+    },
+    {
+      "id": "019b54ee-6755-792f-af84-ac5cbc811356",
+      "name": "Dona Salud Station",
+      "latitude": 7.122274234076897,
+      "longitude": 125.65881241059094
+    },
+    {
+      "id": "019b54ee-6756-7481-825f-fe6043f860f3",
+      "name": "Dona Salud Station",
+      "latitude": 7.122274234076897,
+      "longitude": 125.65881241059094
+    },
+    {
+      "id": "019b54ee-6757-752b-aeec-5c2b57b8c8ec",
+      "name": "Old Airport Station",
+      "latitude": 7.1173424635578755,
+      "longitude": 125.65478341807898
+    },
+    {
+      "id": "019b54ee-6758-72ab-9256-c9319c430524",
+      "name": "Petron Dona Pilar Station",
+      "latitude": 7.1144016353153745,
+      "longitude": 125.652408698204
+    },
+    {
+      "id": "019b54ee-6759-7beb-a921-a830f2fc7ca0",
+      "name": "Nova Tierra Station",
+      "latitude": 7.110992120322365,
+      "longitude": 125.64963377730305
+    },
+    {
+      "id": "019b54ee-675a-791b-8f94-037326a1e640",
+      "name": "Jerome R. Castillo Station",
+      "latitude": 7.0965373851537095,
+      "longitude": 125.63780750425508
+    },
+    {
+      "id": "019b54ee-675b-7871-bd1c-a9cfbd5775a3",
+      "name": "Holy Cross R. Castillo Station",
+      "latitude": 7.087221676205274,
+      "longitude": 125.62908322982662
+    },
+    {
+      "id": "019b54ee-675c-7003-8a60-8ecfe0fb80a2",
+      "name": "Agdao Flyover Station",
+      "latitude": 7.0808921088715095,
+      "longitude": 125.62461650081423
+    },
+    {
+      "id": "019b54ee-675d-77c6-beb4-9a45b2eed13a",
+      "name": "Sta. Ana Sobrecarey Station",
+      "latitude": 7.0769298569363315,
+      "longitude": 125.61916075914849
+    },
+    {
+      "id": "019b54ee-675e-7f50-b1b7-99799927179e",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    }
+  ]
+}

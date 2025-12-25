@@ -1,0 +1,171 @@
+{
+  "id": "019b4a3c-ce42-73ad-9ad9-958207a99c0c",
+  "route_number": "R402",
+  "name": "Mintal to GE Torres",
+  "area": "Mintal",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-6620-7d69-9f17-ebf3cdd63906",
+      "name": "Mintal Palengke Station",
+      "latitude": 7.09147065388288,
+      "longitude": 125.50292314145508
+    },
+    {
+      "id": "019b54ee-6621-7405-907a-023b81b58c99",
+      "name": "Sto. Nino Mintal Station",
+      "latitude": 7.085650443843775,
+      "longitude": 125.50828877141475
+    },
+    {
+      "id": "019b54ee-6622-703e-8cea-8414ec7d8f29",
+      "name": "Green Meadows Station",
+      "latitude": 7.080231558785258,
+      "longitude": 125.51304449669453
+    },
+    {
+      "id": "019b54ee-6623-7a36-8c6a-096b507accb8",
+      "name": "Catalunan Pequeno Station",
+      "latitude": 7.0741974687181965,
+      "longitude": 125.51848911027287
+    },
+    {
+      "id": "019b54ee-6624-7ed2-8b35-368fadefe9d2",
+      "name": "Wellspring Village Station",
+      "latitude": 7.069527363655666,
+      "longitude": 125.52461097627679
+    },
+    {
+      "id": "019b54ee-6625-73b5-b98e-3cf6aeed2d08",
+      "name": "Ateneo Senior High Station",
+      "latitude": 7.060700779168272,
+      "longitude": 125.5567978228379
+    },
+    {
+      "id": "019b54ee-6626-7276-8e6b-88decd210b11",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061255258672034,
+      "longitude": 125.55956428731429
+    },
+    {
+      "id": "019b54ee-6627-7cb6-bf8f-1f4edb5b47e3",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.060840717374191,
+      "longitude": 125.56367702832335
+    },
+    {
+      "id": "019b54ee-6628-7cba-943f-4841621509ff",
+      "name": "Matina Crossing Station",
+      "latitude": 7.058172424027731,
+      "longitude": 125.56975900724251
+    },
+    {
+      "id": "019b54ee-6629-798c-a90b-72cb36e0e465",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055763967087287,
+      "longitude": 125.57540976367454
+    },
+    {
+      "id": "019b54ee-662a-7541-b53e-9add17835f83",
+      "name": "DGT Station",
+      "latitude": 7.058288463021384,
+      "longitude": 125.58031629926563
+    },
+    {
+      "id": "019b54ee-662b-7e1c-a87b-a6536527daa8",
+      "name": "Water District Matina Station",
+      "latitude": 7.060972585362123,
+      "longitude": 125.59005429145282
+    },
+    {
+      "id": "019b54ee-662c-7a44-a6dd-2e888bf2aceb",
+      "name": "NCCC Maa Station",
+      "latitude": 7.06192856978879,
+      "longitude": 125.59391312759931
+    },
+    {
+      "id": "019b54ee-662d-7855-9ba7-0f8d57767723",
+      "name": "Ateneo Matina Station",
+      "latitude": 7.062850789005836,
+      "longitude": 125.59773797305172
+    },
+    {
+      "id": "019b54ee-662e-7a5f-83a9-674dfe65f440",
+      "name": "GE Torres Station",
+      "latitude": 7.061448892969622,
+      "longitude": 125.60118378165475
+    },
+    {
+      "id": "019b54ee-662f-7f89-b5c5-76d13cdf49a5",
+      "name": "Yellow Fin Quimpo Station",
+      "latitude": 7.055498500776594,
+      "longitude": 125.59964471899912
+    },
+    {
+      "id": "019b54ee-6630-79df-82c6-7aec7aa46640",
+      "name": "PWC Quimpo Station",
+      "latitude": 7.0528762842975965,
+      "longitude": 125.59449652016178
+    },
+    {
+      "id": "019b54ee-6631-78d9-b606-4fe7a4cb0fcb",
+      "name": "LTO Ecoland Station",
+      "latitude": 7.050823951208727,
+      "longitude": 125.58770414157675
+    },
+    {
+      "id": "019b54ee-6632-79ab-b2d3-1e848edbb08f",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055741148671061,
+      "longitude": 125.57639590916756
+    },
+    {
+      "id": "019b54ee-6633-7592-821f-593f3f513346",
+      "name": "Matina Crossing Station",
+      "latitude": 7.059119694383455,
+      "longitude": 125.56804719424792
+    },
+    {
+      "id": "019b54ee-6634-71e8-b5a0-605e75ebe433",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.0609816636522,
+      "longitude": 125.5637230487032
+    },
+    {
+      "id": "019b54ee-6635-75a7-987b-b071e036dba5",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061422488598026,
+      "longitude": 125.55969857564492
+    },
+    {
+      "id": "019b54ee-6636-7385-9309-c6555b466a7f",
+      "name": "Shell Bangkal Station",
+      "latitude": 7.060689319708203,
+      "longitude": 125.55521061655963
+    },
+    {
+      "id": "019b54ee-6637-72da-8fd4-b3e02ef3c97a",
+      "name": "Wellspring Village Station",
+      "latitude": 7.069943739251656,
+      "longitude": 125.52430614319258
+    },
+    {
+      "id": "019b54ee-6638-7920-9311-ee3b24125fa9",
+      "name": "Catalunan Pequeno Station",
+      "latitude": 7.074696261857014,
+      "longitude": 125.51818008913165
+    },
+    {
+      "id": "019b54ee-6639-7c0f-9638-0c89fa68c250",
+      "name": "Gaisano Capital Station",
+      "latitude": 7.080589921930965,
+      "longitude": 125.51296295383213
+    },
+    {
+      "id": "019b54ee-663a-701e-b1d2-b55bae64f02b",
+      "name": "Vista Mall Station",
+      "latitude": 7.085744820623759,
+      "longitude": 125.50839279099512
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "019b4a3c-ce40-7079-9d62-c9733fdffbd5",
+  "route_number": "R103",
+  "name": "Toril to Roxas",
+  "area": "Toril",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-65fe-7304-a871-7ee0d5a4c676",
+      "name": "Toril District Hall Station",
+      "latitude": 7.0185982627843515,
+      "longitude": 125.4971863491636
+    },
+    {
+      "id": "019b54ee-65ff-7017-83fb-6167891b1d1b",
+      "name": "Fusion GTH Station",
+      "latitude": 7.025727019244613,
+      "longitude": 125.50455798503901
+    },
+    {
+      "id": "019b54ee-6600-7b43-9731-9f9730c8fcf4",
+      "name": "Pepsi Dumoy Station",
+      "latitude": 7.03108432722513,
+      "longitude": 125.51250960187735
+    },
+    {
+      "id": "019b54ee-6601-7085-98cd-0baf02b2de87",
+      "name": "Bago Aplaya Crossing Station",
+      "latitude": 7.042767110472454,
+      "longitude": 125.52965333752059
+    },
+    {
+      "id": "019b54ee-6602-7d95-81e6-e6e0fa35e755",
+      "name": "Coastal Road Times Beach Station",
+      "latitude": 7.0454740957081015,
+      "longitude": 125.5915887967335
+    },
+    {
+      "id": "019b54ee-6603-7847-80c6-da773740681e",
+      "name": "Ecoland Terminal Station",
+      "latitude": 7.056300424191107,
+      "longitude": 125.6015552844874
+    },
+    {
+      "id": "019b54ee-6604-78f1-b982-c56b49b72307",
+      "name": "Felcris Centrale Station",
+      "latitude": 7.059435047877187,
+      "longitude": 125.60828167502643
+    },
+    {
+      "id": "019b54ee-6605-7120-8e2f-52da30b98069",
+      "name": "Davao City Police Office Station",
+      "latitude": 7.063377731179273,
+      "longitude": 125.61072570626743
+    },
+    {
+      "id": "019b54ee-6606-717a-888e-07d7e6c220ea",
+      "name": "CM Recto Avenue Station",
+      "latitude": 7.0665252644676,
+      "longitude": 125.61056370265396
+    },
+    {
+      "id": "019b54ee-6607-7dfa-bffe-388c405519c1",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-6608-70e4-8385-90ff40d4cefc",
+      "name": "Artiaga Boulevard Station",
+      "latitude": 7.064529729812406,
+      "longitude": 125.61401126503131
+    },
+    {
+      "id": "019b54ee-6609-72b4-9aea-20ce29922091",
+      "name": "Felcris Centrale Station",
+      "latitude": 7.060092183733502,
+      "longitude": 125.60873711050817
+    },
+    {
+      "id": "019b54ee-660a-7966-a7c1-d6b82d7e731d",
+      "name": "Yellow Fin Quimpo Station",
+      "latitude": 7.055498500776594,
+      "longitude": 125.59964471899912
+    },
+    {
+      "id": "019b54ee-660b-74b7-b2fb-1692c876e118",
+      "name": "Coastal Road Times Beach Station",
+      "latitude": 7.045224966279974,
+      "longitude": 125.59150497036342
+    },
+    {
+      "id": "019b54ee-660c-7976-a8fb-826a074821a1",
+      "name": "Shell Bago Aplaya Station",
+      "latitude": 7.042361306606395,
+      "longitude": 125.52880059100971
+    },
+    {
+      "id": "019b54ee-660d-7554-a22d-5cdf56807bfd",
+      "name": "IWHA Station",
+      "latitude": 7.031802408637404,
+      "longitude": 125.51328785121973
+    },
+    {
+      "id": "019b54ee-660e-7b94-a0e8-229c21605243",
+      "name": "GTH Station",
+      "latitude": 7.025851382631373,
+      "longitude": 125.50451794592982
+    }
+  ]
+}

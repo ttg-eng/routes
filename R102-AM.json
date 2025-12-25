@@ -1,0 +1,141 @@
+{
+  "id": "019b4a3c-ce3e-78d5-b27f-413f021bf8b9",
+  "route_number": "R102",
+  "name": "Toril to GE Torres",
+  "area": "Toril",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-65d3-7537-8033-22aacfe11ac2",
+      "name": "Toril District Hall Station",
+      "latitude": 7.0185982627843515,
+      "longitude": 125.4971863491636
+    },
+    {
+      "id": "019b54ee-65d4-7bbd-ac76-7bbe39ac9cba",
+      "name": "Fusion GTH Station",
+      "latitude": 7.025727019244613,
+      "longitude": 125.50455798503901
+    },
+    {
+      "id": "019b54ee-65d5-7c43-8849-ca826482e4a2",
+      "name": "Pepsi Dumoy Station",
+      "latitude": 7.03108432722513,
+      "longitude": 125.51250960187735
+    },
+    {
+      "id": "019b54ee-65d6-7140-99a5-bc1d62e7cbf4",
+      "name": "Bago Aplaya Crossing Station",
+      "latitude": 7.042767110472454,
+      "longitude": 125.52965333752059
+    },
+    {
+      "id": "019b54ee-65d7-7dcc-b50a-62e787fefb22",
+      "name": "Gulf View Station",
+      "latitude": 7.046205699183545,
+      "longitude": 125.53470440995284
+    },
+    {
+      "id": "019b54ee-65d8-71be-a9c6-5e81ec20d546",
+      "name": "Jollibee Puan Station",
+      "latitude": 7.051554317895153,
+      "longitude": 125.54238737073922
+    },
+    {
+      "id": "019b54ee-65d9-7f47-b764-40553d774eee",
+      "name": "Coke Ulas Station",
+      "latitude": 7.053489043457361,
+      "longitude": 125.54439845781769
+    },
+    {
+      "id": "019b54ee-65da-723e-acb2-f08e5da7238e",
+      "name": "Ateneo Senior High Station",
+      "latitude": 7.060700779168272,
+      "longitude": 125.5567978228379
+    },
+    {
+      "id": "019b54ee-65db-7dd9-ae41-1bee07126204",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061255258672034,
+      "longitude": 125.55956428731429
+    },
+    {
+      "id": "019b54ee-65dc-7b6c-8e85-2723a6ca6b8b",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.060840717374191,
+      "longitude": 125.56367702832335
+    },
+    {
+      "id": "019b54ee-65dd-78e5-a97a-79d8254e1764",
+      "name": "Matina Crossing Station",
+      "latitude": 7.058172424027731,
+      "longitude": 125.56975900724251
+    },
+    {
+      "id": "019b54ee-65de-7bd2-b7a0-8ec91fbae593",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055763967087287,
+      "longitude": 125.57540976367454
+    },
+    {
+      "id": "019b54ee-65df-7097-bb57-d029aa7bc769",
+      "name": "DGT Station",
+      "latitude": 7.058288463021384,
+      "longitude": 125.58031629926563
+    },
+    {
+      "id": "019b54ee-65e0-7026-9a0f-7c19bf8ebc07",
+      "name": "Water District Matina Station",
+      "latitude": 7.060972585362123,
+      "longitude": 125.59005429145282
+    },
+    {
+      "id": "019b54ee-65e1-7040-9e8f-0ed476f3dbcb",
+      "name": "NCCC Maa Station",
+      "latitude": 7.06192856978879,
+      "longitude": 125.59391312759931
+    },
+    {
+      "id": "019b54ee-65e2-7e08-8530-8300b44b464c",
+      "name": "Ateneo Matina Station",
+      "latitude": 7.062850789005836,
+      "longitude": 125.59773797305172
+    },
+    {
+      "id": "019b54ee-65e3-72a1-b209-62e4275db848",
+      "name": "GE Torres Station",
+      "latitude": 7.061448892969622,
+      "longitude": 125.60118378165475
+    },
+    {
+      "id": "019b54ee-65e4-792b-8871-90f50530dd34",
+      "name": "Yellow Fin Quimpo Station",
+      "latitude": 7.055498500776594,
+      "longitude": 125.59964471899912
+    },
+    {
+      "id": "019b54ee-65e5-7ad4-98c8-a68950719e93",
+      "name": "Coastal Road Times Beach Station",
+      "latitude": 7.045224966279974,
+      "longitude": 125.59150497036342
+    },
+    {
+      "id": "019b54ee-65e6-7f41-a81f-4abd75c51857",
+      "name": "Shell Bago Aplaya Station",
+      "latitude": 7.042361306606395,
+      "longitude": 125.52880059100971
+    },
+    {
+      "id": "019b54ee-65e7-7637-918b-0b7484f588d7",
+      "name": "IWHA Station",
+      "latitude": 7.031802408637404,
+      "longitude": 125.51328785121973
+    },
+    {
+      "id": "019b54ee-65e8-74b1-9107-38f97a5127c3",
+      "name": "GTH Station",
+      "latitude": 7.025851382631373,
+      "longitude": 125.50451794592982
+    }
+  ]
+}

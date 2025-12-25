@@ -1,0 +1,153 @@
+{
+  "id": "019b4a3c-ce46-701c-8b97-416498cb8077",
+  "route_number": "R503",
+  "name": "Bangkal to Roxas",
+  "area": "Bangkal",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-6695-7d8a-9117-5f82c1e2b1a6",
+      "name": "Davao Light (C. Bangoy Street) Station",
+      "latitude": 7.072765836687623,
+      "longitude": 125.61067755688578
+    },
+    {
+      "id": "019b54ee-6696-75f7-9fb3-2de460453b87",
+      "name": "San Pedro Street Station",
+      "latitude": 7.0656784289,
+      "longitude": 125.6077419157059
+    },
+    {
+      "id": "019b54ee-6697-7830-88d8-cca5aae0b319",
+      "name": "UM Matina Station",
+      "latitude": 7.063223650419204,
+      "longitude": 125.59864732887877
+    },
+    {
+      "id": "019b54ee-6698-7676-aecf-709d2b305da0",
+      "name": "Alorica Davao Station",
+      "latitude": 7.0615768829222105,
+      "longitude": 125.59156268959782
+    },
+    {
+      "id": "019b54ee-6699-77a1-8624-48933b3fe7fb",
+      "name": "Shrine Hills Matina Station",
+      "latitude": 7.05778664920966,
+      "longitude": 125.57937306976874
+    },
+    {
+      "id": "019b54ee-669a-7837-a4b2-aeb057f8ab3c",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055741148671061,
+      "longitude": 125.57639590916756
+    },
+    {
+      "id": "019b54ee-669b-7da6-993a-45aa294d9ca6",
+      "name": "Matina Crossing Station",
+      "latitude": 7.059119694383455,
+      "longitude": 125.56804719424792
+    },
+    {
+      "id": "019b54ee-669c-7aeb-877d-4e0615b346d7",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.0609816636522,
+      "longitude": 125.5637230487032
+    },
+    {
+      "id": "019b54ee-669d-7125-b69c-beee5e53b837",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061422488598026,
+      "longitude": 125.55969857564492
+    },
+    {
+      "id": "019b54ee-669e-7db5-b033-9f8693bdb655",
+      "name": "Shell Bangkal Station",
+      "latitude": 7.060689319708203,
+      "longitude": 125.55521061655963
+    },
+    {
+      "id": "019b54ee-669f-7d75-8e85-25e19fa415cf",
+      "name": "Hope Avenue Bangkal Station",
+      "latitude": 7.060941181744724,
+      "longitude": 125.55389545175399
+    },
+    {
+      "id": "019b54ee-66a0-7e11-b330-3240e688855d",
+      "name": "Ateneo Senior High Station",
+      "latitude": 7.060700779168272,
+      "longitude": 125.5567978228379
+    },
+    {
+      "id": "019b54ee-66a1-750c-a063-fb484e16e93f",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061255258672034,
+      "longitude": 125.55956428731429
+    },
+    {
+      "id": "019b54ee-66a2-76ea-821e-46028613e7f0",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.060840717374191,
+      "longitude": 125.56367702832335
+    },
+    {
+      "id": "019b54ee-66a3-710b-9f9e-4a476c156144",
+      "name": "Matina Crossing Station",
+      "latitude": 7.058172424027731,
+      "longitude": 125.56975900724251
+    },
+    {
+      "id": "019b54ee-66a4-75ef-8731-7cabd0a9e3a6",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055763967087287,
+      "longitude": 125.57540976367454
+    },
+    {
+      "id": "019b54ee-66a5-7e0b-916b-7fa7d1aef152",
+      "name": "DGT Station",
+      "latitude": 7.058288463021384,
+      "longitude": 125.58031629926563
+    },
+    {
+      "id": "019b54ee-66a6-7180-86be-f982a81c7c2e",
+      "name": "Water District Matina Station",
+      "latitude": 7.060972585362123,
+      "longitude": 125.59005429145282
+    },
+    {
+      "id": "019b54ee-66a7-7536-96a8-56b243055d57",
+      "name": "NCCC Maa Station",
+      "latitude": 7.06192856978879,
+      "longitude": 125.59391312759931
+    },
+    {
+      "id": "019b54ee-66a8-7c9b-a727-9479c613c3f3",
+      "name": "Ateneo Matina Station",
+      "latitude": 7.062850789005836,
+      "longitude": 125.59773797305172
+    },
+    {
+      "id": "019b54ee-66a9-704d-b457-d130fc5c3788",
+      "name": "Pichon Street corner Quirino Avenue Station",
+      "latitude": 7.067860141373998,
+      "longitude": 125.60311746328352
+    },
+    {
+      "id": "019b54ee-66aa-79ca-b24f-2ce3175efa90",
+      "name": "Grand Menseng Hotel Station",
+      "latitude": 7.0645041532673645,
+      "longitude": 125.60685088783407
+    },
+    {
+      "id": "019b54ee-66ab-7205-9334-ac7098ae0dcd",
+      "name": "CM Recto Avenue Station",
+      "latitude": 7.0665252644676,
+      "longitude": 125.61056370265396
+    },
+    {
+      "id": "019b54ee-66ac-72c8-b982-4c8b471f770e",
+      "name": "Davao Light (C. Bangoy Street) Station",
+      "latitude": 7.072765836687623,
+      "longitude": 125.61067755688578
+    }
+  ]
+}

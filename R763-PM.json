@@ -1,0 +1,147 @@
+{
+  "id": "019b4a3c-ce4b-7c73-af58-875b6045b44f",
+  "route_number": "R763",
+  "name": "Panacan via Buhangin to Roxas",
+  "area": "Buhangin",
+  "time_period": "PM",
+  "stops": [
+    {
+      "id": "019b54ee-66f6-7988-aa0a-cb7d81ac00a1",
+      "name": "Sta. Lucia Mall Station",
+      "latitude": 7.132809965278199,
+      "longitude": 125.64279798498205
+    },
+    {
+      "id": "019b54ee-66f7-7a3f-9447-f840be0c1d45",
+      "name": "McDonald's Pagibig Station",
+      "latitude": 7.125931685167998,
+      "longitude": 125.63392313825193
+    },
+    {
+      "id": "019b54ee-66f8-745a-9a06-e17d57a08d1b",
+      "name": "NHA Buhangin Station",
+      "latitude": 7.114835956044772,
+      "longitude": 125.62337765979805
+    },
+    {
+      "id": "019b54ee-66f9-7afc-8d66-cc60e11168e5",
+      "name": "Buhangin Gym Station",
+      "latitude": 7.10959221338733,
+      "longitude": 125.61577923245204
+    },
+    {
+      "id": "019b54ee-66fa-7be4-a742-9626a81bb018",
+      "name": "Ladislawa Station",
+      "latitude": 7.09901218564444,
+      "longitude": 125.61472996851512
+    },
+    {
+      "id": "019b54ee-66fb-734b-81f4-f26a774375dc",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0905002538625155,
+      "longitude": 125.60992510023448
+    },
+    {
+      "id": "019b54ee-66fc-7007-ab73-f1baab549f3b",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.0850516978424025,
+      "longitude": 125.61154817570991
+    },
+    {
+      "id": "019b54ee-66fd-7fe0-a3c3-91d643421c40",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-66fe-77f1-8913-bfc14dc68d55",
+      "name": "Davao Mental Hospital Station",
+      "latitude": 7.076155100789407,
+      "longitude": 125.61331228715926
+    },
+    {
+      "id": "019b54ee-66ff-7453-8d1c-9800e3514c7d",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.085863501871174,
+      "longitude": 125.61127868777157
+    },
+    {
+      "id": "019b54ee-6700-72bb-b99f-f651bdb6fd06",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0903434881440575,
+      "longitude": 125.61002322460297
+    },
+    {
+      "id": "019b54ee-6701-792c-bdff-42d2ed5b57a1",
+      "name": "JP Laurel Flyover Station",
+      "latitude": 7.094941469198901,
+      "longitude": 125.61506550737136
+    },
+    {
+      "id": "019b54ee-6702-7513-becc-7fae4e71d1ae",
+      "name": "Ladislawa Station",
+      "latitude": 7.098880847573028,
+      "longitude": 125.61488160866816
+    },
+    {
+      "id": "019b54ee-6703-75d8-987a-ea1a1c7c9206",
+      "name": "Milan Buhangin Station",
+      "latitude": 7.108779376585645,
+      "longitude": 125.61391813469709
+    },
+    {
+      "id": "019b54ee-6704-7bd9-8e74-b23bfc6ebc4a",
+      "name": "NHA Buhangin Station",
+      "latitude": 7.114278462478865,
+      "longitude": 125.62294756590654
+    },
+    {
+      "id": "019b54ee-6705-703a-b8bc-a218e2886720",
+      "name": "Laverna Station",
+      "latitude": 7.126871438515963,
+      "longitude": 125.63548498180933
+    },
+    {
+      "id": "019b54ee-6706-771c-9f81-192ab6a1802d",
+      "name": "Jose Maria College Station",
+      "latitude": 7.13410674225436,
+      "longitude": 125.6444787968021
+    },
+    {
+      "id": "019b54ee-6707-7054-9989-10433c727913",
+      "name": "Landmark Station",
+      "latitude": 7.138352554160164,
+      "longitude": 125.6489423785963
+    },
+    {
+      "id": "019b54ee-6708-7f39-8490-13cfe560e5b2",
+      "name": "Panacan Avenue Station",
+      "latitude": 7.143285736048554,
+      "longitude": 125.65413155238934
+    },
+    {
+      "id": "019b54ee-6709-7cda-93cc-1489983a6ac5",
+      "name": "Davao-Samal Ferry Terminal Station",
+      "latitude": 7.146343362780669,
+      "longitude": 125.6612564624129
+    },
+    {
+      "id": "019b54ee-670a-7dd9-a5cf-d96e79386ef3",
+      "name": "Panacan Depot Station",
+      "latitude": 7.148352496779623,
+      "longitude": 125.65923616688303
+    },
+    {
+      "id": "019b54ee-670b-73ae-99f1-5bdbfd2e8556",
+      "name": "Panacan Bypass Road Station",
+      "latitude": 7.1437501392288425,
+      "longitude": 125.65436664109302
+    },
+    {
+      "id": "019b54ee-670c-7985-979d-0f677c5a4e78",
+      "name": "LPU Davao Station",
+      "latitude": 7.136829103550468,
+      "longitude": 125.64709777908456
+    }
+  ]
+}

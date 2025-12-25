@@ -1,0 +1,201 @@
+{
+  "id": "019b4a3c-ce44-7093-922c-82624175b5d5",
+  "route_number": "R403",
+  "name": "Mintal to Roxas",
+  "area": "Mintal",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-6655-7621-b3ce-38a7c5d1e2a6",
+      "name": "Davao Light (C. Bangoy Street) Station",
+      "latitude": 7.072765836687623,
+      "longitude": 125.61067755688578
+    },
+    {
+      "id": "019b54ee-6656-756d-a460-dfdeccede4eb",
+      "name": "San Pedro Street Station",
+      "latitude": 7.0656784289,
+      "longitude": 125.6077419157059
+    },
+    {
+      "id": "019b54ee-6657-7ad9-a203-f8621d301c80",
+      "name": "UM Matina Station",
+      "latitude": 7.063223650419204,
+      "longitude": 125.59864732887877
+    },
+    {
+      "id": "019b54ee-6658-70db-b684-68b816543d8c",
+      "name": "Alorica Davao Station",
+      "latitude": 7.0615768829222105,
+      "longitude": 125.59156268959782
+    },
+    {
+      "id": "019b54ee-6659-7976-878d-f5caac99be56",
+      "name": "Shrine Hills Matina Station",
+      "latitude": 7.05778664920966,
+      "longitude": 125.57937306976874
+    },
+    {
+      "id": "019b54ee-665a-7181-8a15-e8386d0e1193",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055741148671061,
+      "longitude": 125.57639590916756
+    },
+    {
+      "id": "019b54ee-665b-7001-87a9-7b8f8668f301",
+      "name": "Matina Crossing Station",
+      "latitude": 7.059119694383455,
+      "longitude": 125.56804719424792
+    },
+    {
+      "id": "019b54ee-665c-7f6e-a741-4ff937dd1602",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.0609816636522,
+      "longitude": 125.5637230487032
+    },
+    {
+      "id": "019b54ee-665d-7437-a593-c7dec9a40d6c",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061422488598026,
+      "longitude": 125.55969857564492
+    },
+    {
+      "id": "019b54ee-665e-733f-a2db-4ee2a4e624dc",
+      "name": "Shell Bangkal Station",
+      "latitude": 7.060689319708203,
+      "longitude": 125.55521061655963
+    },
+    {
+      "id": "019b54ee-665f-7298-90bc-f9dd497a0f4e",
+      "name": "Wellspring Village Station",
+      "latitude": 7.069943739251656,
+      "longitude": 125.52430614319258
+    },
+    {
+      "id": "019b54ee-6660-7224-8074-1b7665ff2548",
+      "name": "Catalunan Pequeno Station",
+      "latitude": 7.074696261857014,
+      "longitude": 125.51818008913165
+    },
+    {
+      "id": "019b54ee-6661-75d2-a9b2-7dcd54595375",
+      "name": "Gaisano Capital Station",
+      "latitude": 7.080589921930965,
+      "longitude": 125.51296295383213
+    },
+    {
+      "id": "019b54ee-6662-7555-a646-b57e866d1ef7",
+      "name": "Vista Mall Station",
+      "latitude": 7.085744820623759,
+      "longitude": 125.50839279099512
+    },
+    {
+      "id": "019b54ee-6663-7d7d-8011-3f88e330e4d0",
+      "name": "Mintal Palengke Station",
+      "latitude": 7.09147065388288,
+      "longitude": 125.50292314145508
+    },
+    {
+      "id": "019b54ee-6664-736d-8b1a-833e9a17a2e2",
+      "name": "Sto. Nino Mintal Station",
+      "latitude": 7.085650443843775,
+      "longitude": 125.50828877141475
+    },
+    {
+      "id": "019b54ee-6665-77c4-bf5a-c5807132574b",
+      "name": "Green Meadows Station",
+      "latitude": 7.080231558785258,
+      "longitude": 125.51304449669453
+    },
+    {
+      "id": "019b54ee-6666-74e7-90b9-06f372544b00",
+      "name": "Catalunan Pequeno Station",
+      "latitude": 7.0741974687181965,
+      "longitude": 125.51848911027287
+    },
+    {
+      "id": "019b54ee-6667-7de9-9211-4df9dc6fdef0",
+      "name": "Wellspring Village Station",
+      "latitude": 7.069527363655666,
+      "longitude": 125.52461097627679
+    },
+    {
+      "id": "019b54ee-6668-7345-ae97-c932068df60a",
+      "name": "Ateneo Senior High Station",
+      "latitude": 7.060700779168272,
+      "longitude": 125.5567978228379
+    },
+    {
+      "id": "019b54ee-6669-7f33-874c-c596624ee575",
+      "name": "SPED Bangkal Station",
+      "latitude": 7.061255258672034,
+      "longitude": 125.55956428731429
+    },
+    {
+      "id": "019b54ee-666a-771e-abd7-b4e7ee3be844",
+      "name": "Tahimik Avenue Matina Station",
+      "latitude": 7.060840717374191,
+      "longitude": 125.56367702832335
+    },
+    {
+      "id": "019b54ee-666b-737b-9107-ad5ee6a41751",
+      "name": "Matina Crossing Station",
+      "latitude": 7.058172424027731,
+      "longitude": 125.56975900724251
+    },
+    {
+      "id": "019b54ee-666c-7eb9-a3a3-401bd12c47c7",
+      "name": "Kawayan Drive Station",
+      "latitude": 7.055763967087287,
+      "longitude": 125.57540976367454
+    },
+    {
+      "id": "019b54ee-666d-7e80-ab82-23d47a3f0dad",
+      "name": "DGT Station",
+      "latitude": 7.058288463021384,
+      "longitude": 125.58031629926563
+    },
+    {
+      "id": "019b54ee-666e-712c-a1ba-4ad4b24f878c",
+      "name": "Water District Matina Station",
+      "latitude": 7.060972585362123,
+      "longitude": 125.59005429145282
+    },
+    {
+      "id": "019b54ee-666f-7433-9945-67fdb79020b3",
+      "name": "NCCC Maa Station",
+      "latitude": 7.06192856978879,
+      "longitude": 125.59391312759931
+    },
+    {
+      "id": "019b54ee-6670-7089-a840-e47815984793",
+      "name": "Ateneo Matina Station",
+      "latitude": 7.062850789005836,
+      "longitude": 125.59773797305172
+    },
+    {
+      "id": "019b54ee-6671-784e-95c6-00532ba9a68a",
+      "name": "Pichon Street corner Quirino Avenue Station",
+      "latitude": 7.067860141373998,
+      "longitude": 125.60311746328352
+    },
+    {
+      "id": "019b54ee-6672-7b0f-8625-6cae6db650c6",
+      "name": "Grand Menseng Hotel Station",
+      "latitude": 7.0645041532673645,
+      "longitude": 125.60685088783407
+    },
+    {
+      "id": "019b54ee-6673-7431-8be1-cc56780ec672",
+      "name": "CM Recto Avenue Station",
+      "latitude": 7.0665252644676,
+      "longitude": 125.61056370265396
+    },
+    {
+      "id": "019b54ee-6674-7606-a11c-2951d597718e",
+      "name": "Davao Light (C. Bangoy Street) Station",
+      "latitude": 7.072765836687623,
+      "longitude": 125.61067755688578
+    }
+  ]
+}

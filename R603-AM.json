@@ -1,0 +1,99 @@
+{
+  "id": "019b4a3c-ce48-7c7b-9692-d4299d526cfa",
+  "route_number": "R603",
+  "name": "Buhangin to Roxas",
+  "area": "Buhangin",
+  "time_period": "AM",
+  "stops": [
+    {
+      "id": "019b54ee-66c5-729b-bf23-8a6889542dee",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-66c6-7383-a4ee-32445bbf474a",
+      "name": "Davao Mental Hospital Station",
+      "latitude": 7.076155100789407,
+      "longitude": 125.61331228715926
+    },
+    {
+      "id": "019b54ee-66c7-7cd9-9bec-5cc25371f853",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.085863501871174,
+      "longitude": 125.61127868777157
+    },
+    {
+      "id": "019b54ee-66c8-7776-8e12-93c7c79cf22f",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0903434881440575,
+      "longitude": 125.61002322460297
+    },
+    {
+      "id": "019b54ee-66c9-78dc-9675-5d4b68fcf0de",
+      "name": "JP Laurel Flyover Station",
+      "latitude": 7.094941469198901,
+      "longitude": 125.61506550737136
+    },
+    {
+      "id": "019b54ee-66ca-789c-9745-2a4b904fd981",
+      "name": "Ladislawa Station",
+      "latitude": 7.098880847573028,
+      "longitude": 125.61488160866816
+    },
+    {
+      "id": "019b54ee-66cb-75f0-8548-1830568d71f0",
+      "name": "Holy Child Cabantian Station",
+      "latitude": 7.119249232845036,
+      "longitude": 125.62092077621276
+    },
+    {
+      "id": "019b54ee-66cc-74aa-8268-897ed0174ef0",
+      "name": "Jollibee Cabantian Station",
+      "latitude": 7.127578870441937,
+      "longitude": 125.61997100407768
+    },
+    {
+      "id": "019b54ee-66cd-7dec-b029-8d584c50759b",
+      "name": "Citymall Northtown Station",
+      "latitude": 7.142079575068593,
+      "longitude": 125.59992368318262
+    },
+    {
+      "id": "019b54ee-66ce-72e0-9d55-3947d4b73cc5",
+      "name": "Jollibee Cabantian Station",
+      "latitude": 7.127613391609444,
+      "longitude": 125.61986803193668
+    },
+    {
+      "id": "019b54ee-66cf-75ac-8791-1eb356c2419b",
+      "name": "Holy Child Cabantian Station",
+      "latitude": 7.1194258495231395,
+      "longitude": 125.62115890384473
+    },
+    {
+      "id": "019b54ee-66d0-74e4-81f5-346fc7e4f43b",
+      "name": "Ladislawa Station",
+      "latitude": 7.09901218564444,
+      "longitude": 125.61472996851512
+    },
+    {
+      "id": "019b54ee-66d1-7d2f-bcd7-ce0f8679c08f",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0905002538625155,
+      "longitude": 125.60992510023448
+    },
+    {
+      "id": "019b54ee-66d2-7e7d-bf2e-f23d3a361401",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.0850516978424025,
+      "longitude": 125.61154817570991
+    },
+    {
+      "id": "019b54ee-66d3-7e58-9a69-1dfd9696f161",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    }
+  ]
+}

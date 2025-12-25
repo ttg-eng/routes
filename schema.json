@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bus Route",
+  "description": "A bus route with its stops in the Davao City High Priority Bus (HPB) system",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+      "description": "UUID7 identifier for the route. NEVER modify this after creation."
+    },
+    "route_number": {
+      "type": "string",
+      "pattern": "^R[0-9]{3}$",
+      "description": "Official route number (e.g., R102, R403)"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable route name (e.g., 'Toril to GE Torres')"
+    },
+    "area": {
+      "type": "string",
+      "enum": ["Toril", "Mintal", "Bangkal", "Buhangin", "Panacan"],
+      "description": "Geographic area the route originates from"
+    },
+    "time_period": {
+      "type": "string",
+      "enum": ["AM", "PM"],
+      "description": "Time period: AM (morning) or PM (afternoon)"
+    },
+    "stops": {
+      "type": "array",
+      "minItems": 2,
+      "description": "Bus stops in sequence order (first stop = origin, last = destination)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+            "description": "UUID7 identifier for the stop. NEVER modify this after creation."
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Stop name as displayed on signage"
+          },
+          "latitude": {
+            "type": "number",
+            "minimum": 6.9,
+            "maximum": 7.2,
+            "description": "Latitude in decimal degrees (Davao City range: 6.9-7.2)"
+          },
+          "longitude": {
+            "type": "number",
+            "minimum": 125.4,
+            "maximum": 125.7,
+            "description": "Longitude in decimal degrees (Davao City range: 125.4-125.7)"
+          }
+        },
+        "required": ["id", "name", "latitude", "longitude"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["id", "route_number", "name", "area", "time_period", "stops"],
+  "additionalProperties": false
+}

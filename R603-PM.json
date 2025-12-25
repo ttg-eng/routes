@@ -1,0 +1,75 @@
+{
+  "id": "019b4a3c-ce49-708d-87f0-ea7068eb56d5",
+  "route_number": "R603",
+  "name": "Buhangin to Roxas",
+  "area": "Buhangin",
+  "time_period": "PM",
+  "stops": [
+    {
+      "id": "019b54ee-66d4-7374-8b70-56f56feaba3d",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    },
+    {
+      "id": "019b54ee-66d5-7f18-87c1-724f47108509",
+      "name": "Davao Mental Hospital Station",
+      "latitude": 7.076155100789407,
+      "longitude": 125.61331228715926
+    },
+    {
+      "id": "019b54ee-66d6-7162-be22-e921ef2a2ea2",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.085863501871174,
+      "longitude": 125.61127868777157
+    },
+    {
+      "id": "019b54ee-66d7-74a3-8e8d-a3760f4d22a3",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0903434881440575,
+      "longitude": 125.61002322460297
+    },
+    {
+      "id": "019b54ee-66d8-7116-b4b4-b70f8e4567f9",
+      "name": "JP Laurel Flyover Station",
+      "latitude": 7.094941469198901,
+      "longitude": 125.61506550737136
+    },
+    {
+      "id": "019b54ee-66d9-7b65-9815-a1154d2d830d",
+      "name": "Ladislawa Station",
+      "latitude": 7.098880847573028,
+      "longitude": 125.61488160866816
+    },
+    {
+      "id": "019b54ee-66da-7241-9e7d-4b90d18ca6cd",
+      "name": "Citygate Buhangin Station",
+      "latitude": 7.11183544981273,
+      "longitude": 125.61309035735803
+    },
+    {
+      "id": "019b54ee-66db-7d33-8f2b-a7d1344f37b3",
+      "name": "Ladislawa Station",
+      "latitude": 7.09901218564444,
+      "longitude": 125.61472996851512
+    },
+    {
+      "id": "019b54ee-66dc-764c-995a-dd3d9c17b97d",
+      "name": "Abreeza Mall Station",
+      "latitude": 7.0905002538625155,
+      "longitude": 125.60992510023448
+    },
+    {
+      "id": "019b54ee-66dd-7c5f-b426-99915d9a7bd7",
+      "name": "NCCC Mall VP Station",
+      "latitude": 7.0850516978424025,
+      "longitude": 125.61154817570991
+    },
+    {
+      "id": "019b54ee-66de-7e7e-95dd-b51a80d421a5",
+      "name": "Red Cross Roxas Station",
+      "latitude": 7.0726005776619445,
+      "longitude": 125.61146655985704
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+name: Validate Routes
+
+on:
+  pull_request:
+    paths:
+      - '*.json'
+      - '!schema.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Validate JSON syntax
+        run: |
+          errors=0
+          for file in *.json; do
+            if [ "$file" = "schema.json" ]; then
+              continue
+            fi
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "::error file=$file::Invalid JSON syntax"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            exit 1
+          fi
+          echo "All JSON files have valid syntax"
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli
+
+      - name: Validate against schema
+        run: |
+          errors=0
+          for file in *.json; do
+            if [ "$file" = "schema.json" ]; then
+              continue
+            fi
+            if ! ajv validate -s schema.json -d "$file" --strict=false; then
+              echo "::error file=$file::Schema validation failed"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            exit 1
+          fi
+          echo "All route files pass schema validation"
+
+      - name: Check UUID stability
+        run: |
+          errors=0
+
+          # Get list of changed JSON files (excluding schema.json)
+          changed_files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.json' | grep -v schema.json || true)
+
+          if [ -z "$changed_files" ]; then
+            echo "No route files changed"
+            exit 0
+          fi
+
+          for file in $changed_files; do
+            # Skip if file doesn't exist in base branch (new file)
+            if ! git show origin/${{ github.base_ref }}:"$file" &>/dev/null; then
+              echo "New file: $file (skipping UUID check)"
+              continue
+            fi
+
+            # Check route ID
+            old_id=$(git show origin/${{ github.base_ref }}:"$file" | jq -r '.id')
+            new_id=$(jq -r '.id' "$file")
+
+            if [ "$old_id" != "$new_id" ]; then
+              echo "::error file=$file::Route UUID changed from $old_id to $new_id. UUIDs are permanent and cannot be modified."
+              errors=$((errors + 1))
+            fi
+
+            # Check stop IDs - compare sorted lists
+            old_stops=$(git show origin/${{ github.base_ref }}:"$file" | jq -r '.stops[].id' | sort)
+            new_stops=$(jq -r '.stops[].id' "$file" | sort)
+
+            # Find removed stop IDs
+            removed=$(comm -23 <(echo "$old_stops") <(echo "$new_stops"))
+            if [ -n "$removed" ]; then
+              echo "::error file=$file::Stop UUIDs were removed or changed: $removed"
+              errors=$((errors + 1))
+            fi
+          done
+
+          if [ $errors -gt 0 ]; then
+            echo ""
+            echo "UUID changes detected. UUIDs are permanent identifiers and cannot be modified."
+            echo "To add a new stop, generate a new UUID7 and add it to the stops array."
+            echo "To remove a stop, please open an issue to discuss first."
+            exit 1
+          fi
+
+          echo "UUID stability check passed"
+
+      - name: Validate coordinate bounds
+        run: |
+          errors=0
+          for file in *.json; do
+            if [ "$file" = "schema.json" ]; then
+              continue
+            fi
+
+            # Check each stop's coordinates
+            invalid=$(jq -r '.stops[] | select(.latitude < 6.9 or .latitude > 7.2 or .longitude < 125.4 or .longitude > 125.7) | "\(.name): lat=\(.latitude), lng=\(.longitude)"' "$file")
+
+            if [ -n "$invalid" ]; then
+              echo "::error file=$file::Coordinates outside Davao City bounds:"
+              echo "$invalid"
+              errors=$((errors + 1))
+            fi
+          done
+
+          if [ $errors -gt 0 ]; then
+            exit 1
+          fi
+          echo "All coordinates within Davao City bounds"
