@@ -83,14 +83,14 @@ jobs:
               errors=$((errors + 1))
             fi
 
-            # Check stop IDs - compare sorted lists
-            old_stops=$(git show origin/${{ github.base_ref }}:"$file" | jq -r '.stops[].id' | sort)
-            new_stops=$(jq -r '.stops[].id' "$file" | sort)
+            # Check point IDs - compare sorted lists
+            old_stops=$(git show origin/${{ github.base_ref }}:"$file" | jq -r '.points[].id' | sort)
+            new_stops=$(jq -r '.points[].id' "$file" | sort)
 
-            # Find removed stop IDs
+            # Find removed point IDs
             removed=$(comm -23 <(echo "$old_stops") <(echo "$new_stops"))
             if [ -n "$removed" ]; then
-              echo "::error file=$file::Stop UUIDs were removed or changed: $removed"
+              echo "::error file=$file::Point UUIDs were removed or changed: $removed"
               errors=$((errors + 1))
             fi
           done
@@ -98,8 +98,8 @@ jobs:
           if [ $errors -gt 0 ]; then
             echo ""
             echo "UUID changes detected. UUIDs are permanent identifiers and cannot be modified."
-            echo "To add a new stop, generate a new UUID7 and add it to the stops array."
-            echo "To remove a stop, please open an issue to discuss first."
+            echo "To add a new point, generate a new UUID7 and add it to the points array."
+            echo "To remove a point, please open an issue to discuss first."
             exit 1
           fi
 
@@ -113,8 +113,8 @@ jobs:
               continue
             fi
 
-            # Check each stop's coordinates
-            invalid=$(jq -r '.stops[] | select(.latitude < 6.9 or .latitude > 7.2 or .longitude < 125.4 or .longitude > 125.7) | "\(.name): lat=\(.latitude), lng=\(.longitude)"' "$file")
+            # Check each point's coordinates
+            invalid=$(jq -r '.points[] | select(.latitude < 6.9 or .latitude > 7.2 or .longitude < 125.4 or .longitude > 125.7) | "\(.name): lat=\(.latitude), lng=\(.longitude)"' "$file")
 
             if [ -n "$invalid" ]; then
               echo "::error file=$file::Coordinates outside Davao City bounds:"

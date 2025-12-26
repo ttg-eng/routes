@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Bus Route",
-  "description": "A bus route with its stops and waypoints in the Davao City High Priority Bus (HPB) system",
+  "description": "A bus route with its stops and waypoints in the Davao Interim Bus System",
   "type": "object",
   "properties": {
     "id": {

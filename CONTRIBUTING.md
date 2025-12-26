@@ -1,6 +1,6 @@
 # Contributing Bus Route Data
 
-Thank you for helping improve the Davao City HPB route data!
+Thank you for helping improve the Davao Interim Bus System route data!
 
 ## How to Contribute
 
@@ -21,27 +21,34 @@ Thank you for helping improve the Davao City HPB route data!
 
 4. **Create a Pull Request** with a clear description of what you changed and why
 
+## Route Points
+
+Each route contains an array of **points** that can be either:
+- **Stops** (`"kind": "stop"`): Named bus stops where passengers board/alight
+- **Waypoints** (`"kind": "waypoint"`): Intermediate points that define the route path
+
 ## What You Can Change
 
 - **Stop names**: Correct misspellings or use the actual signage name
-- **Stop coordinates**: Fix incorrect latitude/longitude values
+- **Point coordinates**: Fix incorrect latitude/longitude values
 - **Add missing stops**: Insert new stops in the correct sequence position
+- **Add waypoints**: Add intermediate points to improve route path accuracy
 - **Route names**: Correct route name descriptions
 
 ## What You CANNOT Change
 
 - **Route IDs** (`"id": "..."` at the top level)
-- **Stop IDs** (`"id": "..."` for each stop)
+- **Point IDs** (`"id": "..."` for each point)
 
 These UUIDs are permanent identifiers used by the system. Changing them will cause your PR to be rejected automatically.
 
-## Adding a New Stop
+## Adding a New Point
 
-To add a stop, insert a new entry in the `"stops"` array at the correct position. You'll need to generate a new UUID7:
+To add a point, insert a new entry in the `"points"` array at the correct position. You'll need to generate a new UUID7:
 
 ```bash
 # Using Python (if you have typeid-python installed)
-python -c "from typeid import TypeID; print(TypeID(prefix='bstop').uuid)"
+python -c "from typeid import TypeID; print(TypeID(prefix='rpoint').uuid)"
 
 # Or use an online UUID7 generator
 ```
@@ -52,7 +59,19 @@ Example new stop:
   "id": "YOUR-NEW-UUID7-HERE",
   "name": "New Stop Name",
   "latitude": 7.05,
-  "longitude": 125.55
+  "longitude": 125.55,
+  "kind": "stop"
+}
+```
+
+Example new waypoint (for route path accuracy):
+```json
+{
+  "id": "YOUR-NEW-UUID7-HERE",
+  "name": "",
+  "latitude": 7.05,
+  "longitude": 125.55,
+  "kind": "waypoint"
 }
 ```
 
