@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Bus Route",
-  "description": "A bus route with its stops in the Davao City High Priority Bus (HPB) system",
+  "description": "A bus route with its stops and waypoints in the Davao City High Priority Bus (HPB) system",
   "type": "object",
   "properties": {
     "id": {
@@ -29,22 +29,26 @@
       "enum": ["AM", "PM"],
       "description": "Time period: AM (morning) or PM (afternoon)"
     },
-    "stops": {
+    "color": {
+      "type": "string",
+      "pattern": "^#[0-9a-fA-F]{6}$",
+      "description": "Hex color code for the route (e.g., #430dac)"
+    },
+    "points": {
       "type": "array",
       "minItems": 2,
-      "description": "Bus stops in sequence order (first stop = origin, last = destination)",
+      "description": "Route points in sequence order: named bus stops and intermediate waypoints",
       "items": {
         "type": "object",
         "properties": {
           "id": {
             "type": "string",
             "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
-            "description": "UUID7 identifier for the stop. NEVER modify this after creation."
+            "description": "UUID7 identifier for the point. NEVER modify this after creation."
           },
           "name": {
             "type": "string",
-            "minLength": 1,
-            "description": "Stop name as displayed on signage"
+            "description": "Stop name as displayed on signage. Can be empty for waypoints."
           },
           "latitude": {
             "type": "number",
@@ -57,6 +61,12 @@
             "minimum": 125.4,
             "maximum": 125.7,
             "description": "Longitude in decimal degrees (Davao City range: 125.4-125.7)"
+          },
+          "kind": {
+            "type": "string",
+            "enum": ["stop", "waypoint"],
+            "default": "stop",
+            "description": "Point kind: 'stop' for named bus stops, 'waypoint' for intermediate points used for route snapping."
           }
         },
         "required": ["id", "name", "latitude", "longitude"],
@@ -64,6 +74,6 @@
       }
     }
   },
-  "required": ["id", "route_number", "name", "area", "time_period", "stops"],
+  "required": ["id", "route_number", "name", "area", "time_period", "color", "points"],
   "additionalProperties": false
 }
