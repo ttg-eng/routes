@@ -75,6 +75,34 @@ Example new waypoint (for route path accuracy):
 }
 ```
 
+## Tools
+
+The `tools/` directory contains helper scripts for working with route data:
+
+### View a route on OpenStreetMap
+
+```bash
+python tools/route_to_html.py R102-AM.json
+```
+
+Opens an interactive map in your browser showing stops (numbered) and waypoints.
+
+### Edit a route visually
+
+```bash
+# 1. Convert to GeoJSON
+python tools/route_to_geojson.py R102-AM.json R102-AM.geojson
+
+# 2. Open https://geojson.io and drag in the file
+#    - Red markers = stops, Blue markers = waypoints
+#    - Drag points to move them, click to edit properties
+
+# 3. Save -> GeoJSON to download your changes
+
+# 4. Convert back to route JSON
+python tools/geojson_to_route.py R102-AM.geojson R102-AM.json
+```
+
 ## Coordinate Guidelines
 
 - Use at least 6 decimal places for accuracy
