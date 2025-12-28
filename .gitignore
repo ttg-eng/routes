@@ -1,3 +1,7 @@
 # Generated files from converter tools
 *.geojson
 *.html
+*.json.bak
+
+# OSRM data (~1.5GB processed files, regenerate from .osm.pbf)
+tools/osrm-data/
