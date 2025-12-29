@@ -5,6 +5,8 @@
   "area": "Buhangin",
   "time_period": "AM",
   "color": "#b464af",
+  "start_time": "06:00",
+  "end_time": "10:00",
   "points": [
     {
       "id": "019b54ee-66c5-729b-bf23-8a6889542dee",

@@ -34,6 +34,16 @@
       "pattern": "^#[0-9a-fA-F]{6}$",
       "description": "Hex color code for the route (e.g., #430dac)"
     },
+    "start_time": {
+      "type": "string",
+      "pattern": "^[0-2][0-9]:[0-5][0-9]$",
+      "description": "Operating hours start in 24-hour format (e.g., 06:00)"
+    },
+    "end_time": {
+      "type": "string",
+      "pattern": "^[0-2][0-9]:[0-5][0-9]$",
+      "description": "Operating hours end in 24-hour format (e.g., 10:00)"
+    },
     "points": {
       "type": "array",
       "minItems": 2,
@@ -74,6 +84,6 @@
       }
     }
   },
-  "required": ["id", "route_number", "name", "area", "time_period", "color", "points"],
+  "required": ["id", "route_number", "name", "area", "time_period", "color", "start_time", "end_time", "points"],
   "additionalProperties": false
 }

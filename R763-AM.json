@@ -5,6 +5,8 @@
   "area": "Panacan",
   "time_period": "AM",
   "color": "#609e68",
+  "start_time": "06:00",
+  "end_time": "10:00",
   "points": [
     {
       "id": "06631ea9-555d-4cf9-b3c1-6e978e3e7cfa",

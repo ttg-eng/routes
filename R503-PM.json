@@ -5,6 +5,8 @@
   "area": "Bangkal",
   "time_period": "PM",
   "color": "#e8cb14",
+  "start_time": "16:00",
+  "end_time": "21:00",
   "points": [
     {
       "id": "019b54ee-66ad-7f4b-9463-840c260b73ff",

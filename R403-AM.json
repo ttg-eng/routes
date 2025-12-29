@@ -5,6 +5,8 @@
   "area": "Mintal",
   "time_period": "AM",
   "color": "#0d7f1b",
+  "start_time": "06:00",
+  "end_time": "10:00",
   "points": [
     {
       "id": "019b54ee-6655-7621-b3ce-38a7c5d1e2a6",

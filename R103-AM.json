@@ -5,6 +5,8 @@
   "area": "Toril",
   "time_period": "AM",
   "color": "#ff8300",
+  "start_time": "06:00",
+  "end_time": "10:00",
   "points": [
     {
       "id": "a9738dcc-0cf1-42dc-bb35-6667af1361fe",
