@@ -11,8 +11,8 @@
     },
     "route_number": {
       "type": "string",
-      "pattern": "^R[0-9]{3}$",
-      "description": "Official route number (e.g., R102, R403)"
+      "pattern": "^[A-Z][0-9]{3}$",
+      "description": "Official route number (e.g., R102, Z999)"
     },
     "name": {
       "type": "string",
