@@ -9,41 +9,6 @@
   "end_time": "10:00",
   "points": [
     {
-      "id": "38f944b5-0307-4e36-a8a4-8bf64dd32396",
-      "name": "",
-      "latitude": 7.144063,
-      "longitude": 125.661321,
-      "kind": "waypoint"
-    },
-    {
-      "id": "9580cfc1-f902-46d1-8073-e3a1204b3934",
-      "name": "",
-      "latitude": 7.145410901463374,
-      "longitude": 125.66126800577203,
-      "kind": "waypoint"
-    },
-    {
-      "id": "019b54ee-670d-7ed7-a0a7-08761d7efd4b",
-      "name": "Davao-Samal Ferry Terminal Station",
-      "latitude": 7.146343362780669,
-      "longitude": 125.6612564624129,
-      "kind": "stop"
-    },
-    {
-      "id": "a179e57b-f947-459c-86e4-b151c5c08b6a",
-      "name": "",
-      "latitude": 7.147643826620929,
-      "longitude": 125.66086906133138,
-      "kind": "waypoint"
-    },
-    {
-      "id": "c254ef20-e259-427f-ab6f-bda87dd9c90f",
-      "name": "",
-      "latitude": 7.148857044838066,
-      "longitude": 125.66031188342103,
-      "kind": "waypoint"
-    },
-    {
       "id": "019b54ee-670e-7035-bf4e-05bc39111abe",
       "name": "Panacan Depot Station",
       "latitude": 7.148352496779623,
@@ -1238,6 +1203,41 @@
       "name": "",
       "latitude": 7.144063,
       "longitude": 125.661321,
+      "kind": "waypoint"
+    },
+    {
+      "id": "38f944b5-0307-4e36-a8a4-8bf64dd32396",
+      "name": "",
+      "latitude": 7.144063,
+      "longitude": 125.661321,
+      "kind": "waypoint"
+    },
+    {
+      "id": "9580cfc1-f902-46d1-8073-e3a1204b3934",
+      "name": "",
+      "latitude": 7.145410901463374,
+      "longitude": 125.66126800577203,
+      "kind": "waypoint"
+    },
+    {
+      "id": "019b54ee-670d-7ed7-a0a7-08761d7efd4b",
+      "name": "Davao-Samal Ferry Terminal Station",
+      "latitude": 7.146343362780669,
+      "longitude": 125.6612564624129,
+      "kind": "stop"
+    },
+    {
+      "id": "a179e57b-f947-459c-86e4-b151c5c08b6a",
+      "name": "",
+      "latitude": 7.147643826620929,
+      "longitude": 125.66086906133138,
+      "kind": "waypoint"
+    },
+    {
+      "id": "c254ef20-e259-427f-ab6f-bda87dd9c90f",
+      "name": "",
+      "latitude": 7.148857044838066,
+      "longitude": 125.66031188342103,
       "kind": "waypoint"
     }
   ]

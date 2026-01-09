@@ -9,6 +9,132 @@
   "end_time": "10:00",
   "points": [
     {
+      "id": "019b54ee-66f3-7dea-b923-6378afab49dd",
+      "name": "Panacan Depot Station",
+      "latitude": 7.148352496779623,
+      "longitude": 125.65923616688303,
+      "kind": "stop"
+    },
+    {
+      "id": "4a83203f-de3c-4c78-9928-ae07b873e5ab",
+      "name": "",
+      "latitude": 7.147360228410923,
+      "longitude": 125.65831071754737,
+      "kind": "waypoint"
+    },
+    {
+      "id": "3043962c-808a-4268-a680-8045e3846b92",
+      "name": "",
+      "latitude": 7.146467052202203,
+      "longitude": 125.65730105655238,
+      "kind": "waypoint"
+    },
+    {
+      "id": "98a8b9a4-a4e0-4ba6-86d9-8c50b2940ed1",
+      "name": "",
+      "latitude": 7.145531049762551,
+      "longitude": 125.65632205217041,
+      "kind": "waypoint"
+    },
+    {
+      "id": "292769d6-b671-4961-98b4-067cf69e8ba3",
+      "name": "",
+      "latitude": 7.144596058259394,
+      "longitude": 125.65534206105585,
+      "kind": "waypoint"
+    },
+    {
+      "id": "019b54ee-66f4-74ac-9760-90b0438e6444",
+      "name": "Panacan Bypass Road Station",
+      "latitude": 7.1437501392288425,
+      "longitude": 125.65436664109302,
+      "kind": "stop"
+    },
+    {
+      "id": "5265b234-69c7-46f8-9bd3-7ed7892328ba",
+      "name": "",
+      "latitude": 7.142769967540994,
+      "longitude": 125.65343103665106,
+      "kind": "waypoint"
+    },
+    {
+      "id": "8308169a-148e-4e37-8e40-39125bdd6256",
+      "name": "",
+      "latitude": 7.141835018169214,
+      "longitude": 125.65245101882991,
+      "kind": "waypoint"
+    },
+    {
+      "id": "56694fc9-b565-420e-986e-59aa6989ea07",
+      "name": "",
+      "latitude": 7.140903266684171,
+      "longitude": 125.6514679294303,
+      "kind": "waypoint"
+    },
+    {
+      "id": "07ca1879-9acf-48a4-92ef-314c92c90c7d",
+      "name": "",
+      "latitude": 7.139973190745526,
+      "longitude": 125.65048320305168,
+      "kind": "waypoint"
+    },
+    {
+      "id": "6a53090b-98aa-4e11-9b84-353499df3361",
+      "name": "",
+      "latitude": 7.139042805444087,
+      "longitude": 125.64949879289209,
+      "kind": "waypoint"
+    },
+    {
+      "id": "c81aaac7-d4d1-4691-93a5-2090cdf7f0dc",
+      "name": "",
+      "latitude": 7.138111891950271,
+      "longitude": 125.64851488676389,
+      "kind": "waypoint"
+    },
+    {
+      "id": "28275407-e8c6-469b-b73d-1d5b1531ebd2",
+      "name": "",
+      "latitude": 7.137183547622907,
+      "longitude": 125.64752855149469,
+      "kind": "waypoint"
+    },
+    {
+      "id": "019b54ee-66f5-7430-b405-4cd0fdc6f9a8",
+      "name": "LPU Davao Station",
+      "latitude": 7.136829103550468,
+      "longitude": 125.64709777908456,
+      "kind": "stop"
+    },
+    {
+      "id": "eb34e525-b57d-4e3b-b1b2-4541117d6560",
+      "name": "",
+      "latitude": 7.135869576991397,
+      "longitude": 125.64614157820387,
+      "kind": "waypoint"
+    },
+    {
+      "id": "b37f6b23-128e-4b5a-bee7-2e53550aba07",
+      "name": "",
+      "latitude": 7.134933092339121,
+      "longitude": 125.64516309563695,
+      "kind": "waypoint"
+    },
+    {
+      "id": "ae6b4187-3f3c-4527-8031-d7fb00989d65",
+      "name": "",
+      "latitude": 7.133997554028602,
+      "longitude": 125.64418374556068,
+      "kind": "waypoint"
+    },
+    {
+      "id": "f580c126-2468-4a86-85b3-886b5b393c20",
+      "name": "",
+      "latitude": 7.133245,
+      "longitude": 125.643372,
+      "kind": "waypoint"
+    },
+    {
       "id": "06631ea9-555d-4cf9-b3c1-6e978e3e7cfa",
       "name": "",
       "latitude": 7.133245,
@@ -1105,132 +1231,6 @@
       "name": "",
       "latitude": 7.148857036815149,
       "longitude": 125.66031190428062,
-      "kind": "waypoint"
-    },
-    {
-      "id": "019b54ee-66f3-7dea-b923-6378afab49dd",
-      "name": "Panacan Depot Station",
-      "latitude": 7.148352496779623,
-      "longitude": 125.65923616688303,
-      "kind": "stop"
-    },
-    {
-      "id": "4a83203f-de3c-4c78-9928-ae07b873e5ab",
-      "name": "",
-      "latitude": 7.147360228410923,
-      "longitude": 125.65831071754737,
-      "kind": "waypoint"
-    },
-    {
-      "id": "3043962c-808a-4268-a680-8045e3846b92",
-      "name": "",
-      "latitude": 7.146467052202203,
-      "longitude": 125.65730105655238,
-      "kind": "waypoint"
-    },
-    {
-      "id": "98a8b9a4-a4e0-4ba6-86d9-8c50b2940ed1",
-      "name": "",
-      "latitude": 7.145531049762551,
-      "longitude": 125.65632205217041,
-      "kind": "waypoint"
-    },
-    {
-      "id": "292769d6-b671-4961-98b4-067cf69e8ba3",
-      "name": "",
-      "latitude": 7.144596058259394,
-      "longitude": 125.65534206105585,
-      "kind": "waypoint"
-    },
-    {
-      "id": "019b54ee-66f4-74ac-9760-90b0438e6444",
-      "name": "Panacan Bypass Road Station",
-      "latitude": 7.1437501392288425,
-      "longitude": 125.65436664109302,
-      "kind": "stop"
-    },
-    {
-      "id": "5265b234-69c7-46f8-9bd3-7ed7892328ba",
-      "name": "",
-      "latitude": 7.142769967540994,
-      "longitude": 125.65343103665106,
-      "kind": "waypoint"
-    },
-    {
-      "id": "8308169a-148e-4e37-8e40-39125bdd6256",
-      "name": "",
-      "latitude": 7.141835018169214,
-      "longitude": 125.65245101882991,
-      "kind": "waypoint"
-    },
-    {
-      "id": "56694fc9-b565-420e-986e-59aa6989ea07",
-      "name": "",
-      "latitude": 7.140903266684171,
-      "longitude": 125.6514679294303,
-      "kind": "waypoint"
-    },
-    {
-      "id": "07ca1879-9acf-48a4-92ef-314c92c90c7d",
-      "name": "",
-      "latitude": 7.139973190745526,
-      "longitude": 125.65048320305168,
-      "kind": "waypoint"
-    },
-    {
-      "id": "6a53090b-98aa-4e11-9b84-353499df3361",
-      "name": "",
-      "latitude": 7.139042805444087,
-      "longitude": 125.64949879289209,
-      "kind": "waypoint"
-    },
-    {
-      "id": "c81aaac7-d4d1-4691-93a5-2090cdf7f0dc",
-      "name": "",
-      "latitude": 7.138111891950271,
-      "longitude": 125.64851488676389,
-      "kind": "waypoint"
-    },
-    {
-      "id": "28275407-e8c6-469b-b73d-1d5b1531ebd2",
-      "name": "",
-      "latitude": 7.137183547622907,
-      "longitude": 125.64752855149469,
-      "kind": "waypoint"
-    },
-    {
-      "id": "019b54ee-66f5-7430-b405-4cd0fdc6f9a8",
-      "name": "LPU Davao Station",
-      "latitude": 7.136829103550468,
-      "longitude": 125.64709777908456,
-      "kind": "stop"
-    },
-    {
-      "id": "eb34e525-b57d-4e3b-b1b2-4541117d6560",
-      "name": "",
-      "latitude": 7.135869576991397,
-      "longitude": 125.64614157820387,
-      "kind": "waypoint"
-    },
-    {
-      "id": "b37f6b23-128e-4b5a-bee7-2e53550aba07",
-      "name": "",
-      "latitude": 7.134933092339121,
-      "longitude": 125.64516309563695,
-      "kind": "waypoint"
-    },
-    {
-      "id": "ae6b4187-3f3c-4527-8031-d7fb00989d65",
-      "name": "",
-      "latitude": 7.133997554028602,
-      "longitude": 125.64418374556068,
-      "kind": "waypoint"
-    },
-    {
-      "id": "f580c126-2468-4a86-85b3-886b5b393c20",
-      "name": "",
-      "latitude": 7.133245,
-      "longitude": 125.643372,
       "kind": "waypoint"
     }
   ]
