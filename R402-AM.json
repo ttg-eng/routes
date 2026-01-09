@@ -16,38 +16,38 @@
       "kind": "stop"
     },
     {
-      "id": "3d9faa01-5ebb-400a-9b3a-ae932a07779e",
+      "id": "e2f48973-483c-4b3d-b684-2bd5d24d55c2",
       "name": "",
-      "latitude": 7.090648487672367,
-      "longitude": 125.50400406118622,
+      "latitude": 7.090648245031873,
+      "longitude": 125.50400378638247,
       "kind": "waypoint"
     },
     {
-      "id": "74445297-254c-4efe-b809-3776b855c9e0",
+      "id": "17fcef92-c330-4cc4-a0a0-750a59064a1b",
       "name": "",
-      "latitude": 7.089623309090155,
-      "longitude": 125.50488759145885,
+      "latitude": 7.089623374642754,
+      "longitude": 125.50488767594192,
       "kind": "waypoint"
     },
     {
-      "id": "e25105ba-695f-4eb4-a518-447001e7c014",
+      "id": "d4c5098d-479e-4cc1-90ae-dc69494175f4",
       "name": "",
-      "latitude": 7.088607976732596,
-      "longitude": 125.5057825513174,
+      "latitude": 7.088608202172697,
+      "longitude": 125.50578281910863,
       "kind": "waypoint"
     },
     {
-      "id": "cffb54ec-ff2c-4a12-bd4c-8768733254fd",
+      "id": "56b058dd-cb67-4f8e-ba5f-16d8597ace45",
       "name": "",
-      "latitude": 7.087589804254796,
-      "longitude": 125.50667427219415,
+      "latitude": 7.087589753069606,
+      "longitude": 125.5066742160641,
       "kind": "waypoint"
     },
     {
-      "id": "9b2a577d-5f7d-497b-a845-1fd9a665a750",
+      "id": "2d71a272-8be3-4048-acd6-da0bcab73c87",
       "name": "",
-      "latitude": 7.086573051435766,
-      "longitude": 125.50756762535329,
+      "latitude": 7.086573210005215,
+      "longitude": 125.50756780614904,
       "kind": "waypoint"
     },
     {
@@ -58,35 +58,35 @@
       "kind": "stop"
     },
     {
-      "id": "0b36ca1c-3b32-4287-8e2e-c89e91e7c6f7",
+      "id": "21b82297-9d3f-4c42-be47-abde5730f484",
       "name": "",
       "latitude": 7.084688666138137,
       "longitude": 125.50924133386187,
       "kind": "waypoint"
     },
     {
-      "id": "75a2246e-0279-4bc2-b4b3-6a8ab036cb8d",
+      "id": "5051d8de-6e66-4e02-ac04-6f813ac8fffd",
       "name": "",
       "latitude": 7.08367302813688,
       "longitude": 125.51013597420787,
       "kind": "waypoint"
     },
     {
-      "id": "b6a3c185-f490-4c7b-856e-826b8cd64286",
+      "id": "f7eafb0f-1070-401f-9c02-a5fd47869e49",
       "name": "",
       "latitude": 7.082658330970874,
       "longitude": 125.51103170774647,
       "kind": "waypoint"
     },
     {
-      "id": "78f54203-40f6-4286-9a6e-49b91935cfd0",
+      "id": "c65893bf-8e5f-492f-9d11-4bbf4847d8da",
       "name": "",
       "latitude": 7.081643141962361,
       "longitude": 125.51192687484897,
       "kind": "waypoint"
     },
     {
-      "id": "94ec3630-a142-49ea-89b5-566f6fef44b9",
+      "id": "f5f251f0-395c-4a7d-9d32-bf8c599dc8ea",
       "name": "",
       "latitude": 7.080628885530219,
       "longitude": 125.51282310016106,
@@ -100,38 +100,38 @@
       "kind": "stop"
     },
     {
-      "id": "65092f7d-83ea-40b0-aebe-35e852552bd1",
+      "id": "ecf549e8-9b88-45ef-8738-32d95663b7c3",
       "name": "",
       "latitude": 7.079282599944224,
       "longitude": 125.51401435093301,
       "kind": "waypoint"
     },
     {
-      "id": "b8a63518-40c4-42df-be23-12b251a32964",
+      "id": "116b9def-fb97-40d5-9f40-6d36dd444d8b",
       "name": "",
       "latitude": 7.078265133469836,
       "longitude": 125.5149068829189,
       "kind": "waypoint"
     },
     {
-      "id": "6ace0208-8b28-418a-b544-e5c8f0cc0fbf",
+      "id": "8cbaf313-5f64-4eec-8a8a-128921228880",
       "name": "",
-      "latitude": 7.077249515492387,
-      "longitude": 125.51580154641724,
+      "latitude": 7.07724994845306,
+      "longitude": 125.51580204544545,
       "kind": "waypoint"
     },
     {
-      "id": "852913a9-844c-4a4e-9be4-ce23829658f9",
+      "id": "8247d751-5153-4b17-918c-b87ac5b6ff73",
       "name": "",
-      "latitude": 7.076234766313519,
-      "longitude": 125.51669720614485,
+      "latitude": 7.076234765880803,
+      "longitude": 125.51669720652657,
       "kind": "waypoint"
     },
     {
-      "id": "960db0ec-4b18-4e80-8859-a34dad551a12",
+      "id": "b9ea61e6-ea83-4257-885d-a731b4ac4f49",
       "name": "",
-      "latitude": 7.075214058256679,
-      "longitude": 125.51758594952659,
+      "latitude": 7.075214057820603,
+      "longitude": 125.51758594990442,
       "kind": "waypoint"
     },
     {
@@ -142,35 +142,35 @@
       "kind": "stop"
     },
     {
-      "id": "e85db250-2772-4b4e-aa9f-bd3ef7106263",
+      "id": "26763270-58ae-4bdd-b634-c6274ecfe626",
       "name": "",
       "latitude": 7.073427102408789,
       "longitude": 125.51961084638681,
       "kind": "waypoint"
     },
     {
-      "id": "d93da050-3cad-48d1-bbb0-4078c672b721",
+      "id": "83297224-6844-445c-95af-c8cef1bf9828",
       "name": "",
       "latitude": 7.072604093420147,
       "longitude": 125.52068787668541,
       "kind": "waypoint"
     },
     {
-      "id": "ce1d3fe0-a2d8-4471-bf68-3155d0992cc0",
+      "id": "65f1b56d-514e-415b-b0b7-678c6f66eac0",
       "name": "",
       "latitude": 7.0717810798591305,
       "longitude": 125.5217648901937,
       "kind": "waypoint"
     },
     {
-      "id": "f61f2bc0-a859-4134-ba60-3b951ec1904e",
+      "id": "8ff58b5f-4240-4b45-ae2d-a83f07f6c837",
       "name": "",
       "latitude": 7.070958078611713,
       "longitude": 125.52284189583948,
       "kind": "waypoint"
     },
     {
-      "id": "53991906-7023-4ce8-8a8a-a473ca5a10f6",
+      "id": "98d78a93-9a52-45aa-8532-5ff4a9817c4a",
       "name": "",
       "latitude": 7.070136212434503,
       "longitude": 125.52391971958646,
@@ -184,213 +184,199 @@
       "kind": "stop"
     },
     {
-      "id": "39b103e6-f7e1-435b-80d8-0e29b87bbea9",
+      "id": "148e8ad6-1ce2-4548-b94f-7d9f4df59ebf",
       "name": "",
       "latitude": 7.068762164169185,
       "longitude": 125.52573278348702,
       "kind": "waypoint"
     },
     {
-      "id": "0ef422d6-866d-4464-91ba-e72cfb2d42a4",
+      "id": "7be04ae3-2a30-4850-a7ee-deca324925b7",
       "name": "",
       "latitude": 7.06793583413141,
       "longitude": 125.52680721627964,
       "kind": "waypoint"
     },
     {
-      "id": "279402c4-8045-4cf2-b9fb-724010f0611d",
+      "id": "92f7d30a-024c-4e92-9330-6499632427a1",
       "name": "",
       "latitude": 7.067112828119546,
       "longitude": 125.52788422798032,
       "kind": "waypoint"
     },
     {
-      "id": "f393d0ac-c29e-440e-bce1-86ee367332ae",
+      "id": "c6f05da3-3265-42b9-83fd-cdbf3982d827",
       "name": "",
       "latitude": 7.0662926738973795,
       "longitude": 125.52896341389949,
       "kind": "waypoint"
     },
     {
-      "id": "27bb3f68-fb1e-4bfc-9804-d42215273708",
+      "id": "8ca9acf7-fb24-44dd-a73b-b4987b91c8ae",
       "name": "",
       "latitude": 7.065470800962074,
       "longitude": 125.53004126610504,
       "kind": "waypoint"
     },
     {
-      "id": "31d2cce6-33bd-4f32-8485-1b1fa1f0b3b1",
+      "id": "0da410e5-4f3e-47ce-bdee-6e482b5847d6",
       "name": "",
       "latitude": 7.064641049198741,
       "longitude": 125.53111293674448,
       "kind": "waypoint"
     },
     {
-      "id": "f65c8aff-f887-49d0-8c4c-46b65a62a2fe",
+      "id": "23a9f3c5-d84c-477a-9779-d6cd8a64f204",
       "name": "",
       "latitude": 7.063818063293745,
       "longitude": 125.53218991451234,
       "kind": "waypoint"
     },
     {
-      "id": "9145fa6c-55fa-45c0-85d7-e08af4ee8511",
+      "id": "98594a4e-ce0b-4a3c-8777-adedbbad7d75",
       "name": "",
       "latitude": 7.06299797828914,
       "longitude": 125.5332690278864,
       "kind": "waypoint"
     },
     {
-      "id": "b31c37ed-7deb-4cb3-abbe-f6c47e71ffad",
+      "id": "bbbd6ebf-755c-400a-a0a7-70e0c957dc89",
       "name": "",
       "latitude": 7.062177867793046,
       "longitude": 125.53434817942372,
       "kind": "waypoint"
     },
     {
-      "id": "8bfc81bd-16ca-4723-adbc-9ab267c8d50a",
+      "id": "f6e4b30f-bb87-444b-82bc-fdeda220ace2",
       "name": "",
-      "latitude": 7.061349843393074,
-      "longitude": 125.53542120216531,
+      "latitude": 7.061349843650783,
+      "longitude": 125.53542120236756,
       "kind": "waypoint"
     },
     {
-      "id": "262ff02e-eb59-4a58-a407-29ad3b838572",
+      "id": "e3211725-f7af-4c47-83d7-61443aeef171",
       "name": "",
-      "latitude": 7.0605214249270585,
-      "longitude": 125.53649398650387,
+      "latitude": 7.060521166741759,
+      "longitude": 125.53649378418106,
       "kind": "waypoint"
     },
     {
-      "id": "19fb6241-718e-4654-b6f9-15dcb940b9a8",
+      "id": "bd26a73f-fede-4391-a42f-21d6c648eb52",
       "name": "",
-      "latitude": 7.05970633415996,
-      "longitude": 125.5375770136712,
+      "latitude": 7.059706117223761,
+      "longitude": 125.5375768460801,
       "kind": "waypoint"
     },
     {
-      "id": "359097bd-8cb5-43e6-b6db-b63ed34d0685",
+      "id": "fb4418f3-7195-4819-b320-cbfcba2bd536",
       "name": "",
-      "latitude": 7.059023924356822,
-      "longitude": 125.5386555681013,
+      "latitude": 7.059023767382942,
+      "longitude": 125.53865569321519,
       "kind": "waypoint"
     },
     {
-      "id": "55319a19-1ce6-4247-8289-348d0f750c13",
+      "id": "45fe0619-a9ed-4e8d-aacd-15c18cc491d6",
       "name": "",
-      "latitude": 7.059836153900008,
-      "longitude": 125.53971500638164,
+      "latitude": 7.059836037530622,
+      "longitude": 125.53971506969972,
       "kind": "waypoint"
     },
     {
-      "id": "20697412-a76e-4225-b5c2-ac299617eb0d",
+      "id": "d0d73c8b-5a79-4876-88ac-2644a2333c9e",
       "name": "",
       "latitude": 7.060541,
-      "longitude": 125.5408503008784,
+      "longitude": 125.54085031848231,
       "kind": "waypoint"
     },
     {
-      "id": "780f70f3-08ee-463c-8f63-b699ebf23a77",
+      "id": "495dca73-57ae-4427-a106-97e7976ea048",
       "name": "",
-      "latitude": 7.060551489146693,
-      "longitude": 125.54215419342349,
+      "latitude": 7.0605512997903945,
+      "longitude": 125.54215437087471,
       "kind": "waypoint"
     },
     {
-      "id": "814b7ca5-67c4-4e55-a527-e560f5eb1d3e",
+      "id": "2dcab7a4-7c3a-45ac-9295-ee41061b7fcb",
       "name": "",
-      "latitude": 7.061510863042428,
-      "longitude": 125.54309968855759,
+      "latitude": 7.061510777589428,
+      "longitude": 125.54309983538114,
       "kind": "waypoint"
     },
     {
-      "id": "a580fee7-cff5-4f33-822d-9419d52b0358",
+      "id": "96a70619-0964-4acb-80e1-4f6ff9f651dd",
       "name": "",
-      "latitude": 7.062599673479536,
-      "longitude": 125.54389755488249,
+      "latitude": 7.062599645284052,
+      "longitude": 125.54389759967772,
       "kind": "waypoint"
     },
     {
-      "id": "c4524273-3307-4d00-8eaa-669485164ae4",
+      "id": "a36efec5-3722-49c5-b693-67c3593debb1",
       "name": "",
-      "latitude": 7.0633278505044,
-      "longitude": 125.54503848495885,
+      "latitude": 7.063328179611141,
+      "longitude": 125.54503832508132,
       "kind": "waypoint"
     },
     {
-      "id": "413839e1-da1d-4d5e-8965-d0f65dc91612",
+      "id": "19102760-11fd-44d2-9b42-ee21713bb411",
       "name": "",
-      "latitude": 7.063710053501231,
-      "longitude": 125.54631896302216,
+      "latitude": 7.063709999337233,
+      "longitude": 125.5463189880039,
       "kind": "waypoint"
     },
     {
-      "id": "35556f18-3173-40e5-b93e-626cfc55e146",
+      "id": "6962bd0d-e306-4bad-b2ce-0f5f24b14762",
       "name": "",
-      "latitude": 7.0637269473218405,
-      "longitude": 125.54767521071264,
+      "latitude": 7.063727058067079,
+      "longitude": 125.54767476773168,
       "kind": "waypoint"
     },
     {
-      "id": "9ece9be4-ed31-4ccf-9401-7dbea969df3d",
+      "id": "00c1b994-eb14-4f2b-80e7-32ad1dfdea6a",
       "name": "",
-      "latitude": 7.063733569729241,
-      "longitude": 125.54764357585942,
+      "latitude": 7.062943331862783,
+      "longitude": 125.54866763193385,
       "kind": "waypoint"
     },
     {
-      "id": "abaa697c-e448-4d6c-b4f6-23c3e4f99b40",
+      "id": "7f3a1e52-ac76-487f-a0c5-818d5784c96d",
       "name": "",
-      "latitude": 7.063250953041909,
-      "longitude": 125.54838979886948,
+      "latitude": 7.061993903658882,
+      "longitude": 125.5496289300605,
       "kind": "waypoint"
     },
     {
-      "id": "3e242ffc-a623-42a4-a713-fa7b2ca83d73",
+      "id": "c4095b4e-80d8-4582-8b81-14e6c5fc73ec",
       "name": "",
-      "latitude": 7.062258264266063,
-      "longitude": 125.54930957741935,
+      "latitude": 7.061087247530318,
+      "longitude": 125.5506324435838,
       "kind": "waypoint"
     },
     {
-      "id": "19040767-3545-4b99-ad90-f27ee2730ac4",
+      "id": "4a5e79b3-976f-49bd-a8a2-b7732e551a90",
       "name": "",
-      "latitude": 7.061381804089347,
-      "longitude": 125.55034075524927,
+      "latitude": 7.0601196708258085,
+      "longitude": 125.55157855450993,
       "kind": "waypoint"
     },
     {
-      "id": "4edc30f4-c3dc-4773-b076-4139ca29fb5a",
+      "id": "5c765dfa-ce57-4c84-8f62-774021124006",
       "name": "",
-      "latitude": 7.060407945266949,
-      "longitude": 125.5512810098508,
+      "latitude": 7.060231697161794,
+      "longitude": 125.55289253190719,
       "kind": "waypoint"
     },
     {
-      "id": "9f0f9d1d-de3e-45a9-8587-795a929cfde0",
+      "id": "77e51dc4-7129-4003-b0c7-57e9f1bd0618",
       "name": "",
-      "latitude": 7.060158536441064,
-      "longitude": 125.55248285735775,
+      "latitude": 7.060462179073616,
+      "longitude": 125.55423183146402,
       "kind": "waypoint"
     },
     {
-      "id": "9306c128-c358-42a5-ad4d-b2e1798d52b8",
+      "id": "90afdfdf-fc67-42ac-8dcb-f858e9440b9a",
       "name": "",
-      "latitude": 7.060391495908491,
-      "longitude": 125.55382171235763,
-      "kind": "waypoint"
-    },
-    {
-      "id": "7dcdcc26-30af-4a7a-87e2-654690865b54",
-      "name": "",
-      "latitude": 7.060621302495271,
-      "longitude": 125.55516112567156,
-      "kind": "waypoint"
-    },
-    {
-      "id": "32b592e9-b7fa-4a32-80db-13ad4b93f2d3",
-      "name": "",
-      "latitude": 7.0608444901293925,
-      "longitude": 125.5565016782318,
+      "latitude": 7.060689702239452,
+      "longitude": 125.55557163749742,
       "kind": "waypoint"
     },
     {
@@ -401,14 +387,14 @@
       "kind": "stop"
     },
     {
-      "id": "06b80fa1-0535-495c-838a-367a22ce80ca",
+      "id": "580e4b96-f274-445c-9ac8-a7015f7dc1a7",
       "name": "",
       "latitude": 7.061109993760676,
       "longitude": 125.5581027543766,
       "kind": "waypoint"
     },
     {
-      "id": "89cffaab-6f26-428a-816a-f112401bb533",
+      "id": "89f540c0-025b-47c2-8171-d9cca178c1bb",
       "name": "",
       "latitude": 7.061327053161502,
       "longitude": 125.55944432835045,
@@ -422,21 +408,21 @@
       "kind": "stop"
     },
     {
-      "id": "4c32030a-2668-43c2-a958-6c4c251d8717",
+      "id": "2178e10e-c7da-4d7e-ad3b-110015080b87",
       "name": "",
       "latitude": 7.061564010783809,
       "longitude": 125.56089006470286,
       "kind": "waypoint"
     },
     {
-      "id": "14c0d0b1-1255-43b9-8632-9f476f61ad64",
+      "id": "a4934922-caef-4c5b-9a4b-07eff53e1855",
       "name": "",
       "latitude": 7.0615591288790895,
       "longitude": 125.56222167558023,
       "kind": "waypoint"
     },
     {
-      "id": "cd4f175a-7847-4489-8203-ff67bae45b3b",
+      "id": "465cf8e5-257c-4548-a999-dcb43c4a40d1",
       "name": "",
       "latitude": 7.061011973054788,
       "longitude": 125.56346406043426,
@@ -450,31 +436,31 @@
       "kind": "stop"
     },
     {
-      "id": "2b86d8dd-98f4-4395-a52d-3b6aebab44a2",
+      "id": "27813f45-28b1-448a-8ce4-374ec1bf9c99",
       "name": "",
       "latitude": 7.060369081210841,
       "longitude": 125.56495380776674,
       "kind": "waypoint"
     },
     {
-      "id": "5201e54e-9c49-4a23-a1f2-b78ac77f81b6",
+      "id": "f8c372de-d3ef-4d9c-aee1-17d57713f917",
       "name": "",
       "latitude": 7.059839087548024,
       "longitude": 125.56620379351881,
       "kind": "waypoint"
     },
     {
-      "id": "f1416e85-c067-44eb-b621-152734366c13",
+      "id": "edf9003c-7855-41b8-85bf-387427250b96",
       "name": "",
-      "latitude": 7.059260758876702,
-      "longitude": 125.56742356571236,
+      "latitude": 7.059261117802939,
+      "longitude": 125.56742371982004,
       "kind": "waypoint"
     },
     {
-      "id": "8d7c0ddb-6337-43d3-bfbc-96ca033c9b22",
+      "id": "a1fe28d3-06a2-4530-aa96-81c0a8ca94d7",
       "name": "",
-      "latitude": 7.058722938878127,
-      "longitude": 125.56867014371899,
+      "latitude": 7.058722939410871,
+      "longitude": 125.56867014246633,
       "kind": "waypoint"
     },
     {
@@ -485,28 +471,28 @@
       "kind": "stop"
     },
     {
-      "id": "1716a687-d913-4b3e-a319-25f5bb5da614",
+      "id": "9bb4dea8-7595-4b2d-8170-7b100bbf50f1",
       "name": "",
       "latitude": 7.057705874692938,
       "longitude": 125.57103630431716,
       "kind": "waypoint"
     },
     {
-      "id": "68e67d21-0e06-4e1d-ab0e-55249a028fb2",
+      "id": "e2f0d237-f821-4509-92a3-ab485d24bf2b",
       "name": "",
       "latitude": 7.057170097588185,
       "longitude": 125.57228377229423,
       "kind": "waypoint"
     },
     {
-      "id": "398e6a21-6ef4-4477-9ada-6021a7507020",
+      "id": "cd097c9e-4dd8-4adf-a90e-29696d9e6639",
       "name": "",
       "latitude": 7.0566339684979305,
       "longitude": 125.57353107323684,
       "kind": "waypoint"
     },
     {
-      "id": "69f275a2-a30c-499c-9c5f-0f87367f655e",
+      "id": "f8eab4db-77bd-4268-8901-7c9bd7b02998",
       "name": "",
       "latitude": 7.056097834967572,
       "longitude": 125.57477838283032,
@@ -520,28 +506,28 @@
       "kind": "stop"
     },
     {
-      "id": "2484f173-f20e-4b22-8d30-7b2d8b3af2c1",
+      "id": "77b84ca7-f7c1-4352-9ee2-4f4ea53f811e",
       "name": "",
       "latitude": 7.055622094816448,
       "longitude": 125.57673630222743,
       "kind": "waypoint"
     },
     {
-      "id": "0566ed73-3c9d-4381-8bdf-7ce3533d9df1",
+      "id": "75be3e89-4381-4109-ab49-a6fbb4f6902b",
       "name": "",
       "latitude": 7.056440822798876,
       "longitude": 125.57779277029483,
       "kind": "waypoint"
     },
     {
-      "id": "9faa7d51-813e-44f9-84ca-0128c206cfc1",
+      "id": "665a000e-f0a0-4421-b984-2d5a81b89d52",
       "name": "",
       "latitude": 7.057222072840822,
       "longitude": 125.5788830924122,
       "kind": "waypoint"
     },
     {
-      "id": "737e0403-1c75-41d9-bd6a-9160b4094b16",
+      "id": "53c8e531-999e-46e5-b00e-43b992749cd0",
       "name": "",
       "latitude": 7.058052913701959,
       "longitude": 125.57995388614461,
@@ -555,49 +541,49 @@
       "kind": "stop"
     },
     {
-      "id": "ae51b2ec-731e-4987-8ca7-cd6d10fb70a2",
+      "id": "3106733a-5070-4981-b56b-f0fa3840f705",
       "name": "",
       "latitude": 7.0590970120025265,
       "longitude": 125.58140202160455,
       "kind": "waypoint"
     },
     {
-      "id": "00793b43-2f88-46cc-a994-f44960847985",
+      "id": "2069ce33-b5b7-4e63-9436-441504dafcaf",
       "name": "",
       "latitude": 7.059448,
       "longitude": 125.58270257100587,
       "kind": "waypoint"
     },
     {
-      "id": "316f0761-00dd-4b53-8c41-f287606f8b99",
+      "id": "9875d4da-1d77-4ba7-af97-30dc5592ea78",
       "name": "",
       "latitude": 7.05960100961966,
       "longitude": 125.58405004387504,
       "kind": "waypoint"
     },
     {
-      "id": "a49812c2-c515-421b-ac90-ce88c22b968e",
+      "id": "da5e8d24-b504-4ca0-af83-c4aea97834ba",
       "name": "",
       "latitude": 7.059925,
       "longitude": 125.5853694376181,
       "kind": "waypoint"
     },
     {
-      "id": "b7a2c8b5-6a75-49f6-a5c1-7b9cd26d997c",
+      "id": "776d0e3b-134f-4755-ab04-b566cfca27a2",
       "name": "",
       "latitude": 7.060244034456876,
       "longitude": 125.58669014294948,
       "kind": "waypoint"
     },
     {
-      "id": "a8a5fc5f-1d37-4a46-82f9-3e58cecad66c",
+      "id": "4feccd43-a067-4311-92a3-2594923f0b7c",
       "name": "",
       "latitude": 7.060559911156141,
       "longitude": 125.58801163654786,
       "kind": "waypoint"
     },
     {
-      "id": "a6e4bac5-7191-4417-879f-dc6dbdd6632b",
+      "id": "2664f6d0-2b48-46a3-9a44-0c40f19f5670",
       "name": "",
       "latitude": 7.060873903189782,
       "longitude": 125.58933358048904,
@@ -611,17 +597,17 @@
       "kind": "stop"
     },
     {
-      "id": "805531d6-50ac-4055-8b6e-81c65a152816",
+      "id": "c7091525-428a-40b3-87c0-a068e5cb3a01",
       "name": "",
       "latitude": 7.06134608498802,
       "longitude": 125.59136235926753,
       "kind": "waypoint"
     },
     {
-      "id": "e577dc57-a983-4052-955e-a3f64a892f2c",
+      "id": "3d733dc0-53cd-4d5c-a884-985460d828d9",
       "name": "",
-      "latitude": 7.061655117516508,
-      "longitude": 125.59268550311755,
+      "latitude": 7.061654897308019,
+      "longitude": 125.59268555500142,
       "kind": "waypoint"
     },
     {
@@ -632,14 +618,14 @@
       "kind": "stop"
     },
     {
-      "id": "43620a97-867f-493d-8b31-6aed1b386045",
+      "id": "521abd4e-5c5c-4510-a53e-2a58b67a2813",
       "name": "",
       "latitude": 7.06226210748992,
       "longitude": 125.59523044739048,
       "kind": "waypoint"
     },
     {
-      "id": "f2fbe87b-bdb5-40af-bdd4-86862a5ba4bd",
+      "id": "c9272145-bdad-45ea-96e9-66ae3aaa65d6",
       "name": "",
       "latitude": 7.062577988089654,
       "longitude": 125.59655194976,
@@ -653,21 +639,21 @@
       "kind": "stop"
     },
     {
-      "id": "b52936de-3046-4060-a197-d974364ed722",
+      "id": "8e322a64-f4dc-4a35-82e5-e80dd6beffcb",
       "name": "",
       "latitude": 7.063179995759892,
       "longitude": 125.59905598277457,
       "kind": "waypoint"
     },
     {
-      "id": "b745d808-d79a-4673-adc6-70da8790a35e",
+      "id": "cede1fc8-32c8-48c6-8b4b-395944d6e8ae",
       "name": "",
       "latitude": 7.0635038832192825,
       "longitude": 125.60037551940243,
       "kind": "waypoint"
     },
     {
-      "id": "5dcd1f09-a59d-441e-af42-49b2a15f8399",
+      "id": "f4cb51ac-8c07-4c98-acde-323175bd156b",
       "name": "",
       "latitude": 7.062648199967691,
       "longitude": 125.60095905411895,
@@ -681,31 +667,31 @@
       "kind": "stop"
     },
     {
-      "id": "7aca1909-3e78-4d8c-979e-bd6a394c52e1",
+      "id": "9d88cc17-7199-40a1-9dbd-8e1f40bcec4f",
       "name": "",
       "latitude": 7.060149819741421,
       "longitude": 125.60155303605171,
       "kind": "waypoint"
     },
     {
-      "id": "be918046-7b00-4d35-b597-4c4cf57e4328",
+      "id": "70c63222-4144-4650-8eea-6beb63fcccfb",
       "name": "",
-      "latitude": 7.058850375218765,
-      "longitude": 125.60124680830576,
+      "latitude": 7.0588505632263425,
+      "longitude": 125.60124617433196,
       "kind": "waypoint"
     },
     {
-      "id": "ff35e3d8-c67e-49a4-a6de-a06b911db221",
+      "id": "5e90b1d8-1055-4a2f-be00-11fd28ff2e2b",
       "name": "",
-      "latitude": 7.0575090958414535,
-      "longitude": 125.60121799436227,
+      "latitude": 7.057509094816437,
+      "longitude": 125.60121799442257,
       "kind": "waypoint"
     },
     {
-      "id": "550768f7-f868-4650-9360-fe8c2e6592ba",
+      "id": "4eb16658-c16f-4550-b7d0-b42307609c8c",
       "name": "",
-      "latitude": 7.056576865899264,
-      "longitude": 125.60033991953956,
+      "latitude": 7.056576865017059,
+      "longitude": 125.60033991901024,
       "kind": "waypoint"
     },
     {
@@ -716,28 +702,28 @@
       "kind": "stop"
     },
     {
-      "id": "4d4a7241-1b22-454c-a5f6-5a7d9cb68987",
+      "id": "6477af5e-4123-4117-a649-1ba22402f955",
       "name": "",
       "latitude": 7.05427787215847,
       "longitude": 125.5990629173947,
       "kind": "waypoint"
     },
     {
-      "id": "9e4b2058-5afe-4a6e-8497-9a1fa8cf68da",
+      "id": "5a5dcc4c-4440-4da9-afd1-a85e51c8dfa7",
       "name": "",
       "latitude": 7.0536409329729555,
       "longitude": 125.59791472400629,
       "kind": "waypoint"
     },
     {
-      "id": "1f5d9104-2276-41f1-b51b-c7d6528efb95",
+      "id": "57ef7e2b-97ca-4e02-86f1-6f7b13782129",
       "name": "",
       "latitude": 7.05331799682887,
       "longitude": 125.5965949866335,
       "kind": "waypoint"
     },
     {
-      "id": "25fd2c33-ce84-43b0-a9c6-a092415ffbd1",
+      "id": "b512c4b1-74a0-46e1-a200-c1412f6fddca",
       "name": "",
       "latitude": 7.053004958691748,
       "longitude": 125.59527282669899,
@@ -751,35 +737,35 @@
       "kind": "stop"
     },
     {
-      "id": "0f352f16-6fad-47d7-842f-05d66709263d",
+      "id": "3118cb3f-f7da-4cbf-8c0b-25661f0ee7f4",
       "name": "",
       "latitude": 7.052509015691465,
       "longitude": 125.59318806577944,
       "kind": "waypoint"
     },
     {
-      "id": "381f780b-f53c-477f-bfe9-0f12d7f56c9a",
+      "id": "8acb8240-28e3-4631-a3f8-e3dd5ed53910",
       "name": "",
       "latitude": 7.052191971652887,
       "longitude": 125.59186687952476,
       "kind": "waypoint"
     },
     {
-      "id": "b4ed0dc6-3285-4b30-9ac5-9554706c9572",
+      "id": "e0615ada-8f3a-4193-a05b-a94955463941",
       "name": "",
       "latitude": 7.051880103625307,
       "longitude": 125.59054443833504,
       "kind": "waypoint"
     },
     {
-      "id": "1fa648f3-5e94-42ee-b1ef-4f566063b812",
+      "id": "3645ec87-8dd4-48e5-96eb-ee8e37e4d8dc",
       "name": "",
       "latitude": 7.051454027168224,
       "longitude": 125.58926105563016,
       "kind": "waypoint"
     },
     {
-      "id": "930d6659-fa5d-429f-ac33-d8be7e893fe3",
+      "id": "a15deb46-8a18-4a45-a105-55590adbc92f",
       "name": "",
       "latitude": 7.050889978694719,
       "longitude": 125.5880279406907,
@@ -793,73 +779,73 @@
       "kind": "stop"
     },
     {
-      "id": "0b7549f4-2839-4bd6-b8e8-0231ae97067c",
+      "id": "4c688470-018a-4c54-a31d-7968dce2d1c9",
       "name": "",
       "latitude": 7.050344119826032,
       "longitude": 125.5864333534868,
       "kind": "waypoint"
     },
     {
-      "id": "8d4141ab-b6aa-4512-93e0-0976949cb399",
+      "id": "c75ee855-83e3-4e33-9eaf-b0df04e1ec33",
       "name": "",
       "latitude": 7.049914013490585,
       "longitude": 125.58514504169817,
       "kind": "waypoint"
     },
     {
-      "id": "646ecd39-8d39-4706-8cbf-b5ccc7b7b5b7",
+      "id": "3580d170-9df2-42b2-9e47-e95fedc36b83",
       "name": "",
       "latitude": 7.049809077340587,
       "longitude": 125.58381163539437,
       "kind": "waypoint"
     },
     {
-      "id": "b8804231-caff-485e-947e-bb54dbb7578e",
+      "id": "44f27fea-bc42-42e8-8964-87f83c0e1974",
       "name": "",
       "latitude": 7.050459703231784,
       "longitude": 125.58264427698367,
       "kind": "waypoint"
     },
     {
-      "id": "74c0ab34-0152-4984-8ae7-cfc23e34e200",
+      "id": "add5b718-0483-4022-9c3b-0088a51746df",
       "name": "",
       "latitude": 7.051454143167975,
       "longitude": 125.58172587353496,
       "kind": "waypoint"
     },
     {
-      "id": "f96d2fea-edd2-4d83-998a-aefe49f2bbe5",
+      "id": "21cfa7a5-dcd1-4432-b7a8-494a1918bafb",
       "name": "",
       "latitude": 7.052449041046684,
       "longitude": 125.58080796207079,
       "kind": "waypoint"
     },
     {
-      "id": "89781c6e-7970-432d-b125-736330399747",
+      "id": "82b0cb83-15dd-4da9-a070-5af2adc08340",
       "name": "",
       "latitude": 7.053445856084023,
       "longitude": 125.57989213246556,
       "kind": "waypoint"
     },
     {
-      "id": "af6b282b-613b-4b50-94fd-37050df319b7",
+      "id": "e5ab58af-71b2-422d-921a-40b5314dbc8a",
       "name": "",
       "latitude": 7.054441722585895,
       "longitude": 125.57897525565613,
       "kind": "waypoint"
     },
     {
-      "id": "38ea8d00-cfdd-4b51-bfe3-6dbe0bd07fa7",
+      "id": "f65d8a28-33ec-463a-b2da-15041c8e9fe4",
       "name": "",
       "latitude": 7.055443299943394,
       "longitude": 125.57806472342881,
       "kind": "waypoint"
     },
     {
-      "id": "4c0145a2-4360-486f-b756-3742f5839611",
+      "id": "383684c2-4271-4702-83a2-e821c36b4247",
       "name": "",
-      "latitude": 7.0560096387716476,
-      "longitude": 125.57715553762772,
+      "latitude": 7.056009640140817,
+      "longitude": 125.57715553654499,
       "kind": "waypoint"
     },
     {
@@ -870,42 +856,42 @@
       "kind": "stop"
     },
     {
-      "id": "2dc4f7bc-49a8-427d-affb-dbc163f46985",
+      "id": "a4f7bfbd-c9e5-4807-a2d6-dc855f40758f",
       "name": "",
       "latitude": 7.056056004398116,
       "longitude": 125.57512698970248,
       "kind": "waypoint"
     },
     {
-      "id": "c03c66b4-1ebd-41ba-867b-724106e61f10",
+      "id": "25e9183f-ce4b-4a58-9c6b-1132d1183011",
       "name": "",
       "latitude": 7.056590091753343,
       "longitude": 125.57387878529718,
       "kind": "waypoint"
     },
     {
-      "id": "039e154e-3231-480c-bed6-3478fcfe90eb",
+      "id": "229e508e-504b-4a62-b8f2-94787a48480f",
       "name": "",
       "latitude": 7.0571250178280405,
       "longitude": 125.57263095823146,
       "kind": "waypoint"
     },
     {
-      "id": "e5b88073-88fb-4600-9dec-f616a532a552",
+      "id": "19fdb059-a432-4ce9-a2f5-bc2ffd962e71",
       "name": "",
       "latitude": 7.0576599486917075,
       "longitude": 125.57138311888507,
       "kind": "waypoint"
     },
     {
-      "id": "8228e75a-c7d2-4645-97d0-15c53f095e22",
+      "id": "781faedb-3177-49d9-bf9c-17d6328b576b",
       "name": "",
       "latitude": 7.05819403447126,
       "longitude": 125.57013491919032,
       "kind": "waypoint"
     },
     {
-      "id": "93388ba9-2952-4da8-89e7-858c2f25fed0",
+      "id": "d8ba1a13-dfac-4ba8-9591-7a42165b3b74",
       "name": "",
       "latitude": 7.058728122666873,
       "longitude": 125.56888670910428,
@@ -919,21 +905,21 @@
       "kind": "stop"
     },
     {
-      "id": "2fcc2d11-06bf-43f9-92b7-f142be51fe12",
+      "id": "4ec6ca9e-12b7-4696-8550-7120ff963895",
       "name": "",
       "latitude": 7.05959189027198,
       "longitude": 125.56678727009975,
       "kind": "waypoint"
     },
     {
-      "id": "bc2a2311-54b2-4cc2-955a-fe122fbe417a",
+      "id": "0457c91b-7851-425b-8ddb-d62dde84a1fb",
       "name": "",
       "latitude": 7.060121879516748,
       "longitude": 125.56553728408683,
       "kind": "waypoint"
     },
     {
-      "id": "295a5edf-3946-47c8-8d6b-48d2b08228a0",
+      "id": "896f2986-6687-43b3-8c42-fc1058ddb562",
       "name": "",
       "latitude": 7.060651027912152,
       "longitude": 125.5642869340507,
@@ -947,21 +933,21 @@
       "kind": "stop"
     },
     {
-      "id": "240b509a-6c7c-4d70-ab6c-37a89a42ed73",
+      "id": "97f997b7-e864-4d4d-99be-907241f91a71",
       "name": "",
       "latitude": 7.06146306490501,
       "longitude": 125.5624508466619,
       "kind": "waypoint"
     },
     {
-      "id": "a4fcaf81-3d4b-492f-8425-a3386e1ab27e",
+      "id": "f8506131-4833-4d17-a30e-f51d82fb9c4e",
       "name": "",
       "latitude": 7.06160506303902,
       "longitude": 125.56113538453802,
       "kind": "waypoint"
     },
     {
-      "id": "2f3d6461-2262-4500-8d23-0af086bce833",
+      "id": "06366fed-db0e-4870-b738-4db7a340e915",
       "name": "",
       "latitude": 7.061384075373379,
       "longitude": 125.55979445566634,
@@ -975,21 +961,21 @@
       "kind": "stop"
     },
     {
-      "id": "4db41748-7b49-4899-b835-55c9876b5af8",
+      "id": "37ebbe4b-37e5-434c-9a27-c032b66b2228",
       "name": "",
       "latitude": 7.061151934756735,
       "longitude": 125.55836658944483,
       "kind": "waypoint"
     },
     {
-      "id": "33c154cd-9970-40cc-9cd7-50f9ffb85fd5",
+      "id": "b06f0c81-a012-480f-86c5-8ae4e150c077",
       "name": "",
       "latitude": 7.060931919627359,
       "longitude": 125.55702550771757,
       "kind": "waypoint"
     },
     {
-      "id": "69c262f5-c9e5-4a19-9c98-21005238e941",
+      "id": "208c09a4-8ebf-41cb-8d6a-ab7fd07723b0",
       "name": "",
       "latitude": 7.06070898469011,
       "longitude": 125.5556849125149,
@@ -1003,206 +989,199 @@
       "kind": "stop"
     },
     {
-      "id": "dc2f44fb-be14-4ba0-8cb5-d4e966d91325",
+      "id": "211084e7-223c-42f4-99d3-de17d1011538",
       "name": "",
-      "latitude": 7.0604019071191795,
-      "longitude": 125.55388146456939,
+      "latitude": 7.0604020745989855,
+      "longitude": 125.55388143538681,
       "kind": "waypoint"
     },
     {
-      "id": "1133c6e5-8495-4533-87da-5d1f4b600ecf",
+      "id": "71818754-b210-4d3b-8c5a-3cc144f2ad84",
       "name": "",
-      "latitude": 7.060168930736082,
-      "longitude": 125.55254261410103,
+      "latitude": 7.060168930817754,
+      "longitude": 125.55254261455606,
       "kind": "waypoint"
     },
     {
-      "id": "31ea82f3-89d5-404f-a4f2-c072c42daba2",
+      "id": "978477e9-a901-4bb6-91a9-3c422c1b7b44",
       "name": "",
-      "latitude": 7.0603642582309085,
-      "longitude": 125.55132275291575,
+      "latitude": 7.060364257898131,
+      "longitude": 125.55132275323416,
       "kind": "waypoint"
     },
     {
-      "id": "0628d1a2-e8de-4793-ad0a-cf0f6d850760",
+      "id": "ad12b0ea-0552-4d0e-8c6d-7279d6350231",
       "name": "",
-      "latitude": 7.061338787624515,
-      "longitude": 125.55038320314176,
+      "latitude": 7.061338787291687,
+      "longitude": 125.55038320346013,
       "kind": "waypoint"
     },
     {
-      "id": "a0c4fc26-8ae5-47e8-8184-eb4006a8f4b7",
+      "id": "8e9bf84f-1be7-4fc2-a8cc-86ccc4fc3787",
       "name": "",
-      "latitude": 7.062217136755127,
-      "longitude": 125.54935384370842,
+      "latitude": 7.0622171364516335,
+      "longitude": 125.54935384405528,
       "kind": "waypoint"
     },
     {
-      "id": "8bdf40eb-b06a-4d77-a010-980114d33add",
+      "id": "a6d6266f-269f-4bc6-8949-2bea24b83859",
       "name": "",
-      "latitude": 7.063205922455145,
-      "longitude": 125.5484300701154,
+      "latitude": 7.06320592211359,
+      "longitude": 125.54843007042423,
       "kind": "waypoint"
     },
     {
-      "id": "d738d96c-b1d9-4225-a6a7-99792eefa36c",
+      "id": "e95827d6-47d4-4653-a290-417bf6ec9adb",
       "name": "",
-      "latitude": 7.063751999591752,
-      "longitude": 125.5472579175339,
+      "latitude": 7.063751999594041,
+      "longitude": 125.5472579179963,
       "kind": "waypoint"
     },
     {
-      "id": "ef3461ec-f103-4050-adba-a30329d8121f",
+      "id": "f596697a-bc2e-4938-971a-8c8eaf5c24e7",
       "name": "",
-      "latitude": 7.063678024597807,
-      "longitude": 125.54590117525937,
+      "latitude": 7.063678024662067,
+      "longitude": 125.54590117571723,
       "kind": "waypoint"
     },
     {
-      "id": "5df1ffc3-2dd4-4bff-a5c5-bc14e6cd1aff",
+      "id": "5e9dd678-fa73-46cc-bcff-1816817bed06",
       "name": "",
-      "latitude": 7.063119735082307,
-      "longitude": 125.54467553639404,
+      "latitude": 7.0631197353112976,
+      "longitude": 125.54467553679477,
       "kind": "waypoint"
     },
     {
-      "id": "bd71385c-fc82-4ccd-964b-6423a9337b51",
+      "id": "86a9f95e-f0fd-4a25-a105-df2ced3c94a9",
       "name": "",
-      "latitude": 7.0622773811511,
-      "longitude": 125.54363557657707,
+      "latitude": 7.062277527423715,
+      "longitude": 125.54363535789466,
       "kind": "waypoint"
     },
     {
-      "id": "c082ed06-e141-4049-b441-70381d19790b",
+      "id": "554bd57b-d9c4-44ff-ba62-69ac58b13ae4",
       "name": "",
-      "latitude": 7.0611784694727255,
-      "longitude": 125.54284771762258,
+      "latitude": 7.0611781329386005,
+      "longitude": 125.54284811078217,
       "kind": "waypoint"
     },
     {
-      "id": "7ba9011e-b85e-4ed7-92f0-23fee25da7d0",
+      "id": "b1598483-6226-4db2-99bf-d6961d7c49de",
       "name": "",
-      "latitude": 7.060391475847902,
-      "longitude": 125.54177522713285,
+      "latitude": 7.060391010255905,
+      "longitude": 125.54177525126966,
       "kind": "waypoint"
     },
     {
-      "id": "df7bc05e-49a7-45ff-b516-ef4ac504c81b",
+      "id": "3c1d7e2e-22af-4429-90a3-d242ce07e1be",
       "name": "",
-      "latitude": 7.060372688868506,
-      "longitude": 125.54047981878146,
+      "latitude": 7.060372771387093,
+      "longitude": 125.54047975413329,
       "kind": "waypoint"
     },
     {
-      "id": "a1835cd3-7fc0-4d9c-80fd-fffe2cae19bd",
+      "id": "5541ba62-fcd3-4cb4-8ff0-d2c4a060c1b7",
       "name": "",
-      "latitude": 7.059648845457835,
-      "longitude": 125.53934097544298,
+      "latitude": 7.0596489692895705,
+      "longitude": 125.53934092834233,
       "kind": "waypoint"
     },
     {
-      "id": "50dbb701-167d-40ad-ba43-c8a28e864a6f",
+      "id": "59471d82-303c-4b37-8f30-29bccc485f58",
       "name": "",
-      "latitude": 7.059220017732747,
-      "longitude": 125.53821765936533,
+      "latitude": 7.0592201587944245,
+      "longitude": 125.53821779074012,
       "kind": "waypoint"
     },
     {
-      "id": "ea3ae76c-514b-4430-b968-209f53020075",
+      "id": "8ab53151-4ec2-4274-a52e-1bf237ce226f",
       "name": "",
-      "latitude": 7.060035609046668,
-      "longitude": 125.53713497976558,
+      "latitude": 7.060035858215597,
+      "longitude": 125.5371351902896,
       "kind": "waypoint"
     },
     {
-      "id": "18855c8f-6c5f-4ec4-9e0e-445aabc29023",
+      "id": "4fbec1bf-9eda-4c38-801e-f0ad688769b2",
       "name": "",
-      "latitude": 7.060858095300361,
-      "longitude": 125.53605762654271,
+      "latitude": 7.06085820458133,
+      "longitude": 125.53605773488302,
       "kind": "waypoint"
     },
     {
-      "id": "e6a9e158-4f3f-40c2-8ca4-f1934c305d90",
+      "id": "616ff5dd-03ec-47e7-9216-c4b1cb67cf45",
       "name": "",
-      "latitude": 7.061688113703831,
-      "longitude": 125.53498610315695,
+      "latitude": 7.061687982870866,
+      "longitude": 125.53498602196788,
       "kind": "waypoint"
     },
     {
-      "id": "80ff4bcd-5515-4c75-932e-a24175b3f51e",
+      "id": "81bba4f1-c3f6-4c67-8b0f-3aad5fe28105",
       "name": "",
-      "latitude": 7.062400477323695,
-      "longitude": 125.53405154313153,
+      "latitude": 7.062291393632215,
+      "longitude": 125.53419668563585,
       "kind": "waypoint"
     },
     {
-      "id": "f11ac706-dff4-46c6-a454-df5343d10cbb",
+      "id": "9d7db62e-b57b-4330-bc6a-9565d28254d3",
       "name": "",
-      "latitude": 7.061981501551678,
-      "longitude": 125.53460834644244,
+      "latitude": 7.062486639330543,
+      "longitude": 125.53393553797405,
       "kind": "waypoint"
     },
     {
-      "id": "7f285c3f-94c3-4087-94b1-85e15d7b36f3",
+      "id": "3ba56ded-19e8-4968-9b06-2701421b6f20",
       "name": "",
-      "latitude": 7.062797697342099,
-      "longitude": 125.53352618464665,
+      "latitude": 7.063311809062996,
+      "longitude": 125.53286028385533,
       "kind": "waypoint"
     },
     {
-      "id": "f0741103-86e4-4948-acd3-75f4de7f5317",
+      "id": "73cc8d4c-2590-49c4-9fc1-544144beb943",
       "name": "",
-      "latitude": 7.06362372041881,
-      "longitude": 125.53245163478937,
+      "latitude": 7.064129081515591,
+      "longitude": 125.53177897542275,
       "kind": "waypoint"
     },
     {
-      "id": "8760ff27-2205-4304-958d-2f8178dbc752",
+      "id": "b1354c68-6f3c-420d-852f-3d640e6de4c8",
       "name": "",
-      "latitude": 7.06444306419929,
-      "longitude": 125.53137187083104,
+      "latitude": 7.064960291992127,
+      "longitude": 125.53070841533852,
       "kind": "waypoint"
     },
     {
-      "id": "d3c8132d-ac34-4ec3-9f42-d1177143afc6",
+      "id": "c59a61f8-e376-4732-9f22-b8d83233d82f",
       "name": "",
-      "latitude": 7.065273803657896,
-      "longitude": 125.5303009537284,
+      "latitude": 7.065780827038444,
+      "longitude": 125.52962953908828,
       "kind": "waypoint"
     },
     {
-      "id": "0736ce0a-4bb6-4404-bcd6-6d6618f06cb5",
+      "id": "820d1a69-a40c-43e1-93ee-75c1341aa399",
       "name": "",
-      "latitude": 7.066093300827253,
-      "longitude": 125.52922125646508,
+      "latitude": 7.0666059806156305,
+      "longitude": 125.52855423603206,
       "kind": "waypoint"
     },
     {
-      "id": "46ce4fe5-edcb-4696-891c-748b976186bb",
+      "id": "f6b6ec2c-5a12-40cf-8084-c6457fc2711f",
       "name": "",
-      "latitude": 7.06691654241478,
-      "longitude": 125.5281444708561,
+      "latitude": 7.067424353795955,
+      "longitude": 125.52747364248614,
       "kind": "waypoint"
     },
     {
-      "id": "42c2e649-914f-4c58-a260-0c7935edb2e4",
+      "id": "c1d03194-7c85-4ab0-a4ac-88e7e50cb067",
       "name": "",
-      "latitude": 7.067737620187031,
-      "longitude": 125.5270659714612,
+      "latitude": 7.068250569274753,
+      "longitude": 125.52639911901285,
       "kind": "waypoint"
     },
     {
-      "id": "355eea4f-8da5-43ee-9133-e2af17437eae",
+      "id": "02070224-096c-479e-a719-cc96d8de0fbd",
       "name": "",
-      "latitude": 7.0685636330209825,
-      "longitude": 125.52599129042471,
-      "kind": "waypoint"
-    },
-    {
-      "id": "e333d0e0-0a6e-4607-a845-c1c01ad89c0e",
-      "name": "",
-      "latitude": 7.069382637989068,
-      "longitude": 125.52491118634896,
+      "latitude": 7.069073131532185,
+      "longitude": 125.52532176152195,
       "kind": "waypoint"
     },
     {
@@ -1213,35 +1192,35 @@
       "kind": "stop"
     },
     {
-      "id": "5d9d422d-7a2a-4e26-a7ee-940eb9712185",
+      "id": "eae41b4e-e082-4170-819e-2b3410be8699",
       "name": "",
       "latitude": 7.070702013255445,
       "longitude": 125.52317798317135,
       "kind": "waypoint"
     },
     {
-      "id": "8cf09c13-4a2a-4482-8bf7-5867ceb90f36",
+      "id": "79e0476a-d6ac-4301-b3e6-a109a912c7e0",
       "name": "",
       "latitude": 7.071523253078398,
       "longitude": 125.52209966976355,
       "kind": "waypoint"
     },
     {
-      "id": "cc816302-f3d1-4205-b9f0-3cee55f33d37",
+      "id": "9b84440d-80e8-43aa-a7fd-609f603c858b",
       "name": "",
       "latitude": 7.072346886963103,
       "longitude": 125.52102314831082,
       "kind": "waypoint"
     },
     {
-      "id": "fca1b22f-e2af-41a7-a870-9ebd64fd0abd",
+      "id": "e7a9e1fe-3b34-47d8-a6a1-399b00144f16",
       "name": "",
       "latitude": 7.073171011536323,
       "longitude": 125.51994698484181,
       "kind": "waypoint"
     },
     {
-      "id": "35055dde-f413-4629-8f22-ca5c5a1d6b95",
+      "id": "410d48c2-518b-4326-8ff0-f9807ef2d389",
       "name": "",
       "latitude": 7.073992922632437,
       "longitude": 125.51886910212518,
@@ -1255,38 +1234,38 @@
       "kind": "stop"
     },
     {
-      "id": "8f146072-164e-42ce-8d37-1c4dbab4b201",
+      "id": "d52afbe3-681d-4a06-ba0a-7cbcf8959f70",
       "name": "",
       "latitude": 7.075640815112807,
       "longitude": 125.51721616034465,
       "kind": "waypoint"
     },
     {
-      "id": "92f2e9bf-ad9a-4419-8953-7294f68dca5a",
+      "id": "a6a0deb6-9ea8-45d2-b55d-7c94538c31ba",
       "name": "",
       "latitude": 7.076657838293509,
       "longitude": 125.51632314149317,
       "kind": "waypoint"
     },
     {
-      "id": "1d57ea88-c223-42e3-9c6e-9ee8a1a85fe8",
+      "id": "a9096a80-66cb-41bf-8e95-b4fb6a64657a",
       "name": "",
-      "latitude": 7.077673512865638,
-      "longitude": 125.51542854535154,
+      "latitude": 7.077673014738168,
+      "longitude": 125.51542798701448,
       "kind": "waypoint"
     },
     {
-      "id": "5c700cfc-f4a5-478a-a57d-e9a9c8e5e7b8",
+      "id": "ccf0a4ed-6ffc-40dd-bd76-611ab352dc0a",
       "name": "",
-      "latitude": 7.078690055967664,
-      "longitude": 125.51453495079473,
+      "latitude": 7.078690049072196,
+      "longitude": 125.51453495685703,
       "kind": "waypoint"
     },
     {
-      "id": "93ae2efb-55f7-4602-983a-a336c1ce1ad2",
+      "id": "09f376f8-b1cb-45b8-a197-860c81a028fb",
       "name": "",
-      "latitude": 7.079705237459586,
-      "longitude": 125.51363978821172,
+      "latitude": 7.079705230607133,
+      "longitude": 125.51363979432337,
       "kind": "waypoint"
     },
     {
@@ -1297,38 +1276,38 @@
       "kind": "stop"
     },
     {
-      "id": "64a91689-c0b9-4297-9b86-a698db8a8c24",
+      "id": "a139e196-75f9-4fbb-9fed-2e27967642bb",
       "name": "",
-      "latitude": 7.081552503797011,
-      "longitude": 125.5120070591776,
+      "latitude": 7.081552691036994,
+      "longitude": 125.51200727323258,
       "kind": "waypoint"
     },
     {
-      "id": "310dd106-8f17-45b4-bce0-dc11d320e971",
+      "id": "d6155dbd-062b-4f17-bb6d-4eaf745dfc69",
       "name": "",
-      "latitude": 7.082567636769624,
-      "longitude": 125.51111182836308,
+      "latitude": 7.0825678775204715,
+      "longitude": 125.51111210746288,
       "kind": "waypoint"
     },
     {
-      "id": "0c19601c-be8e-4623-8f10-41416422d42e",
+      "id": "f4092659-5ba7-4c9b-a82f-56e6ab207daf",
       "name": "",
-      "latitude": 7.083582748046893,
-      "longitude": 125.51021658218409,
+      "latitude": 7.083582131960792,
+      "longitude": 125.51021588341328,
       "kind": "waypoint"
     },
     {
-      "id": "cf874ede-a8f6-4eee-85d8-49321477842f",
+      "id": "9ccf3fc3-2fb8-42e7-b8c3-90a50121a41e",
       "name": "",
-      "latitude": 7.084597577349153,
-      "longitude": 125.50932101008327,
+      "latitude": 7.084597753770655,
+      "longitude": 125.5093212170466,
       "kind": "waypoint"
     },
     {
-      "id": "89c05903-2d06-4e31-a418-7d62dba7b002",
+      "id": "f675231d-d81f-4f6f-83d7-ac74a927b991",
       "name": "",
-      "latitude": 7.085612643477248,
-      "longitude": 125.50842570157353,
+      "latitude": 7.085612944006246,
+      "longitude": 125.50842604930793,
       "kind": "waypoint"
     },
     {
@@ -1336,6 +1315,48 @@
       "name": "Vista Mall Station",
       "latitude": 7.085744820623759,
       "longitude": 125.50839279099512,
+      "kind": "stop"
+    },
+    {
+      "id": "b4628a50-b3ab-45d3-8d2c-2a53ef1b087e",
+      "name": "",
+      "latitude": 7.086712670346514,
+      "longitude": 125.50744352800714,
+      "kind": "waypoint"
+    },
+    {
+      "id": "1c2fe155-6b51-409d-a60e-40abeb2da6ca",
+      "name": "",
+      "latitude": 7.087730410014607,
+      "longitude": 125.50655131176802,
+      "kind": "waypoint"
+    },
+    {
+      "id": "8b0a64e1-4c26-43e3-a776-dd7f5d11c368",
+      "name": "",
+      "latitude": 7.088747500606239,
+      "longitude": 125.50565834688486,
+      "kind": "waypoint"
+    },
+    {
+      "id": "174c9dda-77b8-4e66-995f-9bc4a23132ed",
+      "name": "",
+      "latitude": 7.089764655998556,
+      "longitude": 125.50476549397796,
+      "kind": "waypoint"
+    },
+    {
+      "id": "7dac773b-dfdf-4451-9462-7da5b11361bb",
+      "name": "",
+      "latitude": 7.090789413147469,
+      "longitude": 125.50388147076235,
+      "kind": "waypoint"
+    },
+    {
+      "id": "2586046a-e9f7-4198-8b59-2a681ced3d32",
+      "name": "Mintal Palengke Station",
+      "latitude": 7.09147065388288,
+      "longitude": 125.50292314145508,
       "kind": "stop"
     }
   ]
