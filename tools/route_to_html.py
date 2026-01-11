@@ -50,6 +50,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       font-weight: bold;
       box-shadow: 0 1px 3px rgba(0,0,0,0.3);
     }}
+    .heading-arrow-marker {{
+      background: transparent;
+    }}
+    .heading-arrow {{
+      width: 0;
+      height: 0;
+      border-left: 6px solid transparent;
+      border-right: 6px solid transparent;
+      border-bottom: 16px solid #22c55e;
+      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3));
+    }}
     .legend {{
       background: white;
       padding: 10px;
@@ -107,6 +118,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         }});
         const marker = L.marker([point.latitude, point.longitude], {{ icon }}).addTo(map);
         marker.bindPopup('<strong>' + stopNumber + '. ' + point.name + '</strong>');
+
+        // Add heading arrow if heading is defined
+        if (point.heading !== undefined && point.heading !== null) {{
+          const arrowIcon = L.divIcon({{
+            className: 'heading-arrow-marker',
+            html: '<div class="heading-arrow" style="transform: rotate(' + point.heading + 'deg);"></div>',
+            iconSize: [12, 16],
+            iconAnchor: [6, 8]
+          }});
+          // Position arrow slightly offset from the stop in the direction of heading
+          const offsetDistance = 0.0003; // Roughly 30 meters
+          const headingRad = point.heading * Math.PI / 180;
+          const arrowLat = point.latitude + offsetDistance * Math.cos(headingRad);
+          const arrowLng = point.longitude + offsetDistance * Math.sin(headingRad);
+          L.marker([arrowLat, arrowLng], {{ icon: arrowIcon, interactive: false }}).addTo(map);
+        }}
       }} else {{
         // Small dot for waypoints
         const marker = L.circleMarker([point.latitude, point.longitude], {{
