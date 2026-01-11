@@ -77,6 +77,12 @@
             "enum": ["stop", "waypoint"],
             "default": "stop",
             "description": "Point kind: 'stop' for named bus stops, 'waypoint' for intermediate points used for route snapping."
+          },
+          "heading": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 360,
+            "description": "Expected bus heading when approaching this point (degrees, 0=North). Computed from bearing to next point in sequence."
           }
         },
         "required": ["id", "name", "latitude", "longitude"],
